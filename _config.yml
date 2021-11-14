@@ -32,7 +32,6 @@ theme_config:
   home:
     title_projects: Расписание  
     title_misc_list: Details
-    title_blog: Новости
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options

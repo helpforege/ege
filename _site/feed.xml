@@ -1,5 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-14T16:53:52+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">11 класс</title><subtitle>Сайт 11 класса МБОУ Маньковской СОШ
-</subtitle><author><name>Abhinav Saxena</name></author><entry><title type="html">Friday</title><link href="http://localhost:4000/friday.html" rel="alternate" type="text/html" title="Friday" /><published>2021-11-14T00:00:00+03:00</published><updated>2021-11-14T00:00:00+03:00</updated><id>http://localhost:4000/friday</id><content type="html" xml:base="http://localhost:4000/friday.html"></content><author><name>Abhinav Saxena</name></author><summary type="html"></summary></entry><entry><title type="html">Monday</title><link href="http://localhost:4000/monday.html" rel="alternate" type="text/html" title="Monday" /><published>2021-11-14T00:00:00+03:00</published><updated>2021-11-14T00:00:00+03:00</updated><id>http://localhost:4000/monday</id><content type="html" xml:base="http://localhost:4000/monday.html">&lt;h2 id=&quot;расписание&quot;&gt;Расписание&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-14T17:23:11+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">11 класс</title><subtitle>Сайт 11 класса МБОУ Маньковской СОШ
+</subtitle><author><name>Abhinav Saxena</name></author><entry><title type="html">Friday</title><link href="http://localhost:4000/friday.html" rel="alternate" type="text/html" title="Friday" /><published>2021-11-14T00:00:00+03:00</published><updated>2021-11-14T00:00:00+03:00</updated><id>http://localhost:4000/friday</id><content type="html" xml:base="http://localhost:4000/friday.html">&lt;h2 id=&quot;расписание&quot;&gt;Расписание&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Э.К. Физика&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Химия&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Литература&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Э.К. Обществознание&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. Алгебра&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6. История&lt;/strong&gt;&lt;/p&gt;</content><author><name>Abhinav Saxena</name></author><summary type="html">Расписание</summary></entry><entry><title type="html">Monday</title><link href="http://localhost:4000/monday.html" rel="alternate" type="text/html" title="Monday" /><published>2021-11-14T00:00:00+03:00</published><updated>2021-11-14T00:00:00+03:00</updated><id>http://localhost:4000/monday</id><content type="html" xml:base="http://localhost:4000/monday.html">&lt;h2 id=&quot;расписание&quot;&gt;Расписание&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;1. География&lt;/strong&gt;&lt;/p&gt;
 
@@ -15,7 +27,49 @@
 
 &lt;p&gt;&lt;strong&gt;7. ФК&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;домашняя-работа&quot;&gt;Домашняя работа&lt;/h2&gt;</content><author><name>Abhinav Saxena</name></author><summary type="html">Расписание</summary></entry><entry><title type="html">Thursday</title><link href="http://localhost:4000/thursday.html" rel="alternate" type="text/html" title="Thursday" /><published>2021-11-14T00:00:00+03:00</published><updated>2021-11-14T00:00:00+03:00</updated><id>http://localhost:4000/thursday</id><content type="html" xml:base="http://localhost:4000/thursday.html"></content><author><name>Abhinav Saxena</name></author><summary type="html"></summary></entry><entry><title type="html">Tuesday</title><link href="http://localhost:4000/tuesday.html" rel="alternate" type="text/html" title="Tuesday" /><published>2021-11-14T00:00:00+03:00</published><updated>2021-11-14T00:00:00+03:00</updated><id>http://localhost:4000/tuesday</id><content type="html" xml:base="http://localhost:4000/tuesday.html"></content><author><name>Abhinav Saxena</name></author><summary type="html"></summary></entry><entry><title type="html">Wednesday</title><link href="http://localhost:4000/wednesday.html" rel="alternate" type="text/html" title="Wednesday" /><published>2021-11-14T00:00:00+03:00</published><updated>2021-11-14T00:00:00+03:00</updated><id>http://localhost:4000/wednesday</id><content type="html" xml:base="http://localhost:4000/wednesday.html"></content><author><name>Abhinav Saxena</name></author><summary type="html"></summary></entry><entry><title type="html">Soopr</title><link href="http://localhost:4000/soopr.html" rel="alternate" type="text/html" title="Soopr" /><published>2021-03-04T00:00:00+03:00</published><updated>2021-03-04T00:00:00+03:00</updated><id>http://localhost:4000/soopr</id><content type="html" xml:base="http://localhost:4000/soopr.html">&lt;p&gt;&lt;a href=&quot;https://www.soopr.co&quot;&gt;Soopr&lt;/a&gt; is the easiest way for you to add share &amp;amp; reaction buttons to your blog and website, integrate an URL shortener and simple to understand analytics service. Soopr lets you manage all of these using a powerful dashboard.&lt;/p&gt;
+&lt;h2 id=&quot;домашняя-работа&quot;&gt;Домашняя работа&lt;/h2&gt;</content><author><name>Abhinav Saxena</name></author><summary type="html">Расписание</summary></entry><entry><title type="html">Thursday</title><link href="http://localhost:4000/thursday.html" rel="alternate" type="text/html" title="Thursday" /><published>2021-11-14T00:00:00+03:00</published><updated>2021-11-14T00:00:00+03:00</updated><id>http://localhost:4000/thursday</id><content type="html" xml:base="http://localhost:4000/thursday.html">&lt;h2 id=&quot;расписание&quot;&gt;Расписание&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Э.К. Решение задач&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Обществознание&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Э.К. Русский язык&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Геометрия&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. Литература&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6. Химия&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;7. Английский язык&lt;/strong&gt;&lt;/p&gt;</content><author><name>Abhinav Saxena</name></author><summary type="html">Расписание</summary></entry><entry><title type="html">Tuesday</title><link href="http://localhost:4000/tuesday.html" rel="alternate" type="text/html" title="Tuesday" /><published>2021-11-14T00:00:00+03:00</published><updated>2021-11-14T00:00:00+03:00</updated><id>http://localhost:4000/tuesday</id><content type="html" xml:base="http://localhost:4000/tuesday.html">&lt;h2 id=&quot;расписание&quot;&gt;Расписание&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Английский язык&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Э.К. Русский язык&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Биология&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. ФК&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. Геометрия&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6. Физика&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;7. ОБЖ&lt;/strong&gt;&lt;/p&gt;</content><author><name>Abhinav Saxena</name></author><summary type="html">Расписание</summary></entry><entry><title type="html">Wednesday</title><link href="http://localhost:4000/wednesday.html" rel="alternate" type="text/html" title="Wednesday" /><published>2021-11-14T00:00:00+03:00</published><updated>2021-11-14T00:00:00+03:00</updated><id>http://localhost:4000/wednesday</id><content type="html" xml:base="http://localhost:4000/wednesday.html">&lt;h2 id=&quot;расписание&quot;&gt;Расписание&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Информатика&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Физика&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. ФК&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Флгебра&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. Обществознание&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6. Литратура&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;7. Биология&lt;/strong&gt;&lt;/p&gt;</content><author><name>Abhinav Saxena</name></author><summary type="html">Расписание</summary></entry><entry><title type="html">Soopr</title><link href="http://localhost:4000/soopr.html" rel="alternate" type="text/html" title="Soopr" /><published>2021-03-04T00:00:00+03:00</published><updated>2021-03-04T00:00:00+03:00</updated><id>http://localhost:4000/soopr</id><content type="html" xml:base="http://localhost:4000/soopr.html">&lt;p&gt;&lt;a href=&quot;https://www.soopr.co&quot;&gt;Soopr&lt;/a&gt; is the easiest way for you to add share &amp;amp; reaction buttons to your blog and website, integrate an URL shortener and simple to understand analytics service. Soopr lets you manage all of these using a powerful dashboard.&lt;/p&gt;
 
 &lt;p&gt;Moonwalk uses Soopr for share and like buttons and it is already integrated. By default, Moonwalk shows &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;circular&lt;/code&gt; Twitter, Facebook and Copy buttons in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;base&lt;/code&gt; size. To add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;like&lt;/code&gt; button, please signup for free on &lt;a href=&quot;https://www.soopr.co&quot;&gt;Soopr&lt;/a&gt;&lt;/p&gt;
 
