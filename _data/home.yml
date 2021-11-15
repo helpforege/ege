@@ -19,16 +19,13 @@ project_entries:
     url: wednesday
 
   - title: Четверг
-    url: thursday
-    highlight: 
+    url: thursday 
 
   - title: Пятница
     url: friday
-    highlight: 
 
   - title: События
     url: others
-    desc: 
 
   - title: Математика
     url: math
