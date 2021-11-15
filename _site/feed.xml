@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-14T17:23:11+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">11 класс</title><subtitle>Сайт 11 класса МБОУ Маньковской СОШ
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-15T23:53:08+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">11 класс</title><subtitle>Сайт 11 класса МБОУ Маньковской СОШ
 </subtitle><author><name>Abhinav Saxena</name></author><entry><title type="html">Friday</title><link href="http://localhost:4000/friday.html" rel="alternate" type="text/html" title="Friday" /><published>2021-11-14T00:00:00+03:00</published><updated>2021-11-14T00:00:00+03:00</updated><id>http://localhost:4000/friday</id><content type="html" xml:base="http://localhost:4000/friday.html">&lt;h2 id=&quot;расписание&quot;&gt;Расписание&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;1. Э.К. Физика&lt;/strong&gt;&lt;/p&gt;
@@ -11,7 +11,868 @@
 
 &lt;p&gt;&lt;strong&gt;5. Алгебра&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;6. История&lt;/strong&gt;&lt;/p&gt;</content><author><name>Abhinav Saxena</name></author><summary type="html">Расписание</summary></entry><entry><title type="html">Monday</title><link href="http://localhost:4000/monday.html" rel="alternate" type="text/html" title="Monday" /><published>2021-11-14T00:00:00+03:00</published><updated>2021-11-14T00:00:00+03:00</updated><id>http://localhost:4000/monday</id><content type="html" xml:base="http://localhost:4000/monday.html">&lt;h2 id=&quot;расписание&quot;&gt;Расписание&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;6. История&lt;/strong&gt;&lt;/p&gt;</content><author><name>Abhinav Saxena</name></author><summary type="html">Расписание</summary></entry><entry><title type="html">Inf</title><link href="http://localhost:4000/inf.html" rel="alternate" type="text/html" title="Inf" /><published>2021-11-14T00:00:00+03:00</published><updated>2021-11-14T00:00:00+03:00</updated><id>http://localhost:4000/inf</id><content type="html" xml:base="http://localhost:4000/inf.html">&lt;h3 id=&quot;курсы-stepik&quot;&gt;Курсы Stepik&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/61070&quot;&gt;Системы счисления&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/93189&quot;&gt;Подготовка к решению ЕГЭ-15 по информатике&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/92363&quot;&gt;ЕГЭ Информатика 2022. Теория игр. Задания 19, 20, 21 К-ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/8290&quot;&gt;Тренажер ЕГЭ Информатика&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/90950&quot;&gt;КЕГЭ информатика задание №18&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/82606&quot;&gt;Flash  Теория игр в ЕГЭ 19-21 задание ЕГЭ информатика 2021&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/93189&quot;&gt;Подготовка к решению ЕГЭ-15 по информатике&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/72713&quot;&gt;Подготовка к ЕГЭ по информатике&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/53910&quot;&gt;Тренажер для заданий ЕГЭ по Информатике&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/64164&quot;&gt;Подготовка к ЕГЭ по информатике: Теоретическая часть&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/85214&quot;&gt;Подготовка к ЕГЭ по информатике&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/84584&quot;&gt;Подготовка к ЕГЭ информатика курсы ВШЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/100056&quot;&gt;Информатика ЕГЭ 2022. Твой спутник при подготовке.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/100486&quot;&gt;Информатика КЕГЭ 2022. Авторские варианты: уровня ЕГЭ и сложнее&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;вконтакте&quot;&gt;Вконтакте&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/informege100&quot;&gt;Информатика ЕГЭ СОТКА&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/inform_web_ege&quot;&gt;Информатика ЕГЭ 2022 Вебиум&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/turbo_inf&quot;&gt;Информатика ЕГЭ 2022 Турбоподготовка&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/inform_web&quot;&gt;Информатика с Джобсом ЕГЭ 2022&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/ege_lnform&quot;&gt;ЕГЭ. Информатика&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/99ballov_inf&quot;&gt;Информатика ЕГЭ 2022 99 баллов&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/shkolkovo_inf&quot;&gt;Школково Информатика с АР - ЕГЭ 2022&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/informatics_100&quot;&gt;Информатика ЕГЭ 100БАЛЛОВ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/umsch_i&quot;&gt;Информатика ЕГЭ 2022 Умскул&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/lectarium_inform&quot;&gt;Информатика ЕГЭ 2022 ЛЕКТАРИУМ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/partainfo&quot;&gt;Информатика ЕГЭ 2022 PARTA&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;телеграм&quot;&gt;Телеграм&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/shkolkovo_inf&quot;&gt;Школково информатика&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/AAAAAEZLIl-XWzOC5SIpEw&quot;&gt;Экспресс подготовка к ЕГЭ по информатике&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/informatikaaaas&quot;&gt;Слив мг информатика умскул&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/ege_sotka&quot;&gt;Информатика сентябрь&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/infapr&quot;&gt;Слив информатика умскул&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/wSsniFVslsIwMDJh&quot;&gt;Информатика простые основы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/Iz29QTLAZ-k3ZjAx&quot;&gt;Информатика сложные основы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/YTizRPyPMTc3Y2Qx&quot;&gt;Спецкурс по заданию №26&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/sliv_mg_infdek&quot;&gt;Информатика декабрь&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/InfPredbannik&quot;&gt;Предбанник информатика умскул&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ютуб&quot;&gt;Ютуб&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/user/tkhirianov&quot;&gt;Тимофей Хирьянов&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCu50NY1uYmfuAWtNqPpHyDg&quot;&gt;Evgenij Jobs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/c/AlexDanov&quot;&gt;Alex Danov&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCHQD5pTrQz5bxxZOml2rn6g&quot;&gt;Информатика ЕГЭ PARTA&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCqZvYprH2ornRwwMYbPoDYA&quot;&gt;Информатика ЕГЭ Умскул&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCMaXzRQ7_TpfVWgbEXQOH7w&quot;&gt;ИНФОРМАТИКА ЕГЭ 2022 99 БАЛЛОВ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/c/GTai_Talos&quot;&gt;Gtai&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCmUcjDHUkIMhfqBfyHYXYuA&quot;&gt;Информатик БУ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC0f-GuGlcxH5IhkHLvo_CwA&quot;&gt;ФЛЭШ ЕГЭ информатика&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCm7zQPnQme4Lk3RuASLDd2A&quot;&gt;Сдам ЕГЭ и ОГЭ Сам -Информатика&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCGrkOdW5j7rgRuwC3PWIW-Q&quot;&gt;ИНФОРМАТИКА ЕГЭ 2021 СОТКА&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC2Akjl-ctoX8_qxHyLgUBzQ&quot;&gt;Информатика ЕГЭ I Коля Касперский I Вебиум&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=6BZgqTTNO2o&amp;amp;list=PL3h_ugF4cInV-hvxXCwwemQ3pyxf7V77b&quot;&gt;Информатика 2022 плейлист&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=LPSHDehCGd0&amp;amp;list=PL3h_ugF4cInVpTiCovzbNtvEe454-Loqt&quot;&gt;Информатика 2021 плейлист&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=o6uWQHtIvMQ&amp;amp;list=PL3h_ugF4cInUzOovFJEb52A0KlnAHY36R&quot;&gt;Информатика 2020 плейлист&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ALD3BMyJN90&amp;amp;list=PLgbNuJC3cOmxnF8drazSis8eBCwvsWiDe&quot;&gt;Новая школа Информатика плейлист&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=YTTBSAx8m_0&amp;amp;list=PLgbNuJC3cOmziRG-aPo4Bk1mTABTsibAz&quot;&gt;Новая школа информатика второй плейлист&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=gbBky8rR-gM&amp;amp;list=PLC6tee4YS8s38VcTb6qy7rDXJL8T5qVV1&quot;&gt;Фабрика ЕГЭ плейлист&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=VupuHp5nv1g&amp;amp;list=PLFLihuUc2w1CH_d-skOr-N9_CIepNq4XW&quot;&gt;ЕГЭ по информатике с экспертом&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=kynspKA7WUM&amp;amp;list=PLsFA6mM3DNubiw2Gom-SqzTfJ8IIaoZAp&quot;&gt;Информатика годограф&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;облако&quot;&gt;Облако&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/PvIQHYDD#UrgW5M6--ttg-vnnhrNbDQ&quot;&gt;2019 - Информатика за пределами ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://disk.yandex.ru/d/INsWH9BHTFapXQ&quot;&gt;Программирование. Подготовка к окружному этапу олимпиады&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://disk.yandex.ru/d/D31Tad1cSZ8INQ&quot;&gt;Куча всего полезного&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://disk.yandex.ru/d/MK4m1lvIM3jmIw&quot;&gt;Программирование. Подготовка к региональному этапу олимпиады&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/M0sWlSyK#x2o0BcBymqJ9yEF54WnIZw&quot;&gt;Информатика ЕГЭ. Интенсив-курс 2019&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/zS431KpL#9J9wwxYsf49aw5Jbd-Py4Q&quot;&gt;Курс подготовки к олимпиадам по программированию (продвинутый уровень)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/tanookki/FizMatInf/tree/master/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&quot;&gt;Куча материалов&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;сайты&quot;&gt;Сайты&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kpolyakov.spb.ru/school/ege.htm&quot;&gt;Сайт К. Полякова&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bingoschool.ru/ege/informatics/tasks/&quot;&gt;bingoschool&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ege-inf.ru/&quot;&gt;Профильная информатика: подготовка к ЕГЭ и олимпиадам&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://foxford.ru/referrals/7193555&quot;&gt;Фоксфорд + 2000₽&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://acm.timus.ru/&quot;&gt;Архив задач с проверяющей системой&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://acmp.ru/&quot;&gt;Школа программиста&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kursagent.ru/webs/&quot;&gt;Вебинары&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://4ege.ru/informatika/&quot;&gt;4ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://mirege.ru/informatika/&quot;&gt;МирЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://spadilo.ru/ege-po-informatike/&quot;&gt;Спадило&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.examen.ru/add/tests/inforamatica/&quot;&gt;Экзамен ру&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://fipi.ru/ege/demoversii-specifikacii-kodifikatory#!/tab/151883967-5&quot;&gt;Демоверсии, спецификации, кодификаторы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://fipi.ru/ege/otkrytyy-bank-zadaniy-ege#!/tab/173765699-5&quot;&gt;Открытый банк заданий ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://fipi.ru/ege/otkrytyy-bank-zadaniy-ege/otkrytyye-varianty-kim-ege#!/tab/310119616-5&quot;&gt;Открытые варианты КИМ ЕГЭ 2021&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://inf-ege.sdamgia.ru/&quot;&gt;Решу ЕГЭ информатика&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://yandex.ru/tutor/subject/?subject_id=6&quot;&gt;Яндекс репетитор&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://neznaika.info/ege/it/&quot;&gt;Незнайка&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://zedpost.ru/ege/&quot;&gt;Разбор типовых заданий ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;android&quot;&gt;Android&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.enki.insights&amp;amp;hl=ru&amp;amp;gl=ru&quot;&gt;Enki: Learn Code &amp;amp; Data Skills&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=ru.foxford.foxfordtextbook&quot;&gt;Фоксфорд учебник&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=gooseproplus.com.android_le&quot;&gt;ЕГЭ Информатика 23 задание&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.moodhopelessness.someshit&quot;&gt;Графы на 5 - Информатика ЕГЭ ОГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ios&quot;&gt;iOS&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/id993753145&quot;&gt;Enki: Learn Code &amp;amp; Data Skills&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA-%D0%BF%D0%BE-%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC-%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%B0%D0%BC-%D0%BE%D1%82-%D1%84%D0%BE%D0%BA%D1%81%D1%84%D0%BE%D1%80%D0%B4/id930911649&quot;&gt;Фоксфорд учебник&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;pascal&quot;&gt;Pascal&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/66375&quot;&gt;Задачи по программированию из ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/60223&quot;&gt;Pascal. Массивы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/8305&quot;&gt;Основы изучения языка программирования Pascal.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/3352&quot;&gt;Программирование на Pascal&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/91810&quot;&gt;Pascal в школе&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/91781&quot;&gt;PascalABC.NET: современный код&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/60717&quot;&gt;Основы программирования на языке Pascal&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=uw729TH7amg&amp;amp;list=PLyzA9jKKrXoXuhuTR03GI3THJ4hyUg9mg&quot;&gt;Паскаль с нуля&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=kvnrWRncMGo&amp;amp;list=PLaHMNOpHDYwrajDyHrlpin57uYeCUl_oG&quot;&gt;Программирование Pascal&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=XMDnqdlm_Wk&amp;amp;list=PLXIPP19ME6T7vqucJzZusXtLlWtLBC2yR&quot;&gt;Pascal с нуля&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pas1.ru/&quot;&gt;Язык Pascal (Паскаль). Программирование для начинающих&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://tpdn.ru/&quot;&gt;Справочник Turbo Pascal&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://zedpost.ru/pascal/&quot;&gt;Уроки Паскаль&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://borlpasc.narod.ru/prog.htm&quot;&gt;TURBO PASCAL&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://pascalabc.net/en/&quot;&gt;PascalABC.NET&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://learnpascal.ru/&quot;&gt;Уроки Pascal&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cyberforum.ru/pascal/&quot;&gt;Сyberforum pascal&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://life-prog.ru/view_cat.php?cat=1&quot;&gt;Язык программирования Паскаль(Turbo Pascal). Обучающие уроки&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://pascal-cod.ru/&quot;&gt;Программирование на языке Паскаль&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://fkn.ktu10.com/?q=node/7301&quot;&gt;Паскаль - Онлайн Учебник&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;python&quot;&gt;Python&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/50169&quot;&gt;Программирование Python. Информатика ОГЭ, ЕГЭ, олимпиады.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/uiQGUY5Y#uJaqRZ2C6IRzOYIzXyUfjQ&quot;&gt;[Foxford] Python. Продвинутый уровень&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/50276&quot;&gt;Программирование Python Информатика ЕГЭ 25 и 27&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.codecademy.com/catalog/language/python&quot;&gt;Learn Python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/67400&quot;&gt;Python для ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/AAAAAFFbpvBSQ0NRqvYK3g&quot;&gt;Язык python для начинающих&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://cloud.mail.ru/public/4DgR/31sUmaqHN/&quot;&gt;Python быстрый старт&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://cloud.mail.ru/public/4XEz/eae3rXuCy/&quot;&gt;Основы языка python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://cloud.mail.ru/public/554Y/4EUMJUYKY/&quot;&gt;Мега курс python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://cloud.mail.ru/public/4tVK/4Tbw2b48Y/&quot;&gt;Python и взлом систем&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://cloud.mail.ru/public/HbFj/2BjzRF93a/&quot;&gt;Мастер этического взлома python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://cloud.mail.ru/public/t64J/JSYjmboUH/&quot;&gt;Python для SEO&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://cloud.mail.ru/public/3SZk/eLPJ5TcJ3/&quot;&gt;Разработка тг ботов на python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/58852&quot;&gt;“Поколение Python”: курс для начинающих&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/68343&quot;&gt;“Поколение Python”: курс для продвинутых&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/67&quot;&gt;Программирование на Python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/63085&quot;&gt;Инди-курс программирования на Python от egoroff_channel&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/512&quot;&gt;Python: основы и применение&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/575&quot;&gt;Автоматизация тестирования с помощью Selenium и Python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/3356&quot;&gt;Практикум по математике и Python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/72969&quot;&gt;ООП на Python от egoroff_channel&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/58474&quot;&gt;Legasoft Python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/57948&quot;&gt;Программирование на Python [Sanak-lab]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/82984&quot;&gt;Основы программирования начинающим. Python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/68821&quot;&gt;Программирование на Python. Часть 1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/72237&quot;&gt;Программирование на Python. Часть 2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/72762&quot;&gt;Первые программы на языке Python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/9232&quot;&gt;Основы программирования на языке Python для школьников&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/7215&quot;&gt;Алгоритмизация. Программирование. Python 3 для школьников 5-10кл&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/58638&quot;&gt;Основы программирования на языке Python в примерах и задачах&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/4519&quot;&gt;Python для решения практических задач&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/57179&quot;&gt;Введение в Python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/79580&quot;&gt;Самый умный Python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/75281&quot;&gt;Python. От простого к сложному.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/51481&quot;&gt;Python для не-программистов&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/16638&quot;&gt;Погружение в Python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.udemy.com/course/python-3-c/&quot;&gt;Основы Python 3&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.udemy.com/course/python-project/&quot;&gt;Python Практика Для Начинающих&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.udemy.com/course/pythonforbeginnersintro/&quot;&gt;Introduction To Python Programming&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.udemy.com/course/python-from-beginner-to-expert-starter-free/&quot;&gt;Python from Beginner to Intermediate in 30 min.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.udemy.com/course/free-python/&quot;&gt;Python for Absolute Beginners!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.udemy.com/course/python-3-in-100-minutes/&quot;&gt;Python 3 in 100 Minutes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.coursera.org/learn/diving-in-python&quot;&gt;Погружение в Python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.coursera.org/learn/python-osnovy-programmirovaniya&quot;&gt;Основы программирования на Python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.coursera.org/learn/mathematics-and-python?ranMID=40328&amp;amp;ranEAID=ve4RjaCbdEQ&amp;amp;ranSiteID=ve4RjaCbdEQ-koa3PlPxCA1duV4ErkTIwg&amp;amp;siteID=ve4RjaCbdEQ-koa3PlPxCA1duV4ErkTIwg&amp;amp;utm_content=10&amp;amp;utm_medium=partners&amp;amp;utm_source=linkshare&amp;amp;utm_campaign=ve4RjaCbdEQ&quot;&gt;Математика и Python для анализа данных&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://uneex.ru/LecturesCMC/PythonIntro2014&quot;&gt;uneex&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=n0xtO0x81cg&amp;amp;list=PL0lO_mIqDDFXgfuxOEDTCwsWmKezOaDTu&quot;&gt;Python программирование / Уроки для начинающих&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=IU4-19ofajg&amp;amp;list=PLQAt0m1f9OHvv2wxPGSCWjgy1qER_FvB6&quot;&gt;Язык программирования PYTHON&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ahe3WpBMdm4&amp;amp;list=PLvoBekrlHDgROfUUHMbrrdsy_b2y2V_rj&quot;&gt;Python Джедай [2016 год] По стандартам США!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=nCmTEeb2RTc&amp;amp;list=PLK_91fLxh1IEPWK1SWaY_J-VX1O24teeA&quot;&gt;Этический взлом на Python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=fgf57Sa5A-A&amp;amp;list=PLRDzFCPr95fLuusPXwvOPgXzBL3ZTzybY&quot;&gt;2019 Практика программирования на Python 3&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/PythonAA&quot;&gt;Python school&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/python_academy&quot;&gt;Python academy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/club42565717&quot;&gt;Python vk&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/python_community&quot;&gt;Python community&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=python.learnpython.learn.pythonx.coding.programming.python3.tutorials.codingx&quot;&gt;Learn Python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=python.programming.coding.python3.development&quot;&gt;Learn Python: Ultimate Guide&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.getmimo&quot;&gt;Mimo Android&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&quot;&gt;Pydroid 3 - IDE for Python 3&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.divschool.pythonprepare02&quot;&gt;ОГЭ, ЕГЭ: информатика - программирование на Python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/python3-ide-fresh-edition/id1397406775&quot;&gt;Python3 IDE Fresh Edition&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://getmimo.com/invite/bdtiz1&quot;&gt;Mimo iOS&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;c&quot;&gt;C++&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/f3ZlwYIJ#5Mc6LPZv4Z-eHkXcqZJ4Yw&quot;&gt;C++ 2018&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://disk.yandex.ru/d/_1HXesluVTZp9Q&quot;&gt;Курс подготовки к олимпиадам, продвинутый уровень&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.codecademy.com/learn/learn-c-plus-plus&quot;&gt;Learn C++&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/#F!qjIwhQ6T!vwjiDExbiiDLjTO6vsCULA&quot;&gt;9-11 кл - Программирование - Языки C и C++&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/mqRx0SjD#cJVvez1NeYiHqH13xjTVVg&quot;&gt;9-11 кл - Курс подготовки к олипиадам программирования&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/363&quot;&gt;Введение в программирование (C++)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/7&quot;&gt;Программирование на языке C++&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/80538&quot;&gt;Основы C/C++ для спортивного программирования&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/3206&quot;&gt;Программирование на языке C++ (продолжение)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/3094&quot;&gt;Язык программирования C++&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/3693&quot;&gt;Задачи по программированию на языке C++&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/153&quot;&gt;Углубленное программирование на C/C++&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/58723&quot;&gt;Введение в С++&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/149&quot;&gt;Многопоточное программирование на С/С++&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/98223&quot;&gt;C++ Летняя школа НИШ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/16480&quot;&gt;Программирование “С нуля”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=kRcbYLK3OnQ&amp;amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&quot;&gt;Плейлист C++&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/wall-54530371_254&quot;&gt;“Объектно-ориентированное программирование в С++”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ravesli.com/uroki-cpp/&quot;&gt;Уроки C++&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.udemy.com/course/fundamental-coding/&quot;&gt;Основы С++ и основы UE4&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.udemy.com/course/free-learn-c-tutorial-beginners/&quot;&gt;C++ Tutorial for Complete Beginners&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;udemy.com/course/introduction-to-algorithms-and-data-structures-in-c/&quot;&gt;Introduction to Algorithms and Data structures in C++&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.udemy.com/course/beg-cpp-temp/&quot;&gt;Beginning C++ Templates&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.udemy.com/course/cpp-4skills-free/&quot;&gt;Mastering 4 critical skills using C++ (Free Preview)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.udemy.com/course/data-structures-for-beginners-c-plusplus/&quot;&gt;Data Structures in C++&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.udemy.com/course/cpp-short-and-sweet/&quot;&gt;C++, Short and Sweet, Part 1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.udemy.com/course/cpp-4skills-oop-free/&quot;&gt;Mastering Object Oriented using C++ (Free Preview)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.udemy.com/course/c-plus-plus-from-beginners-to-advance-step-by-step/&quot;&gt;C++ From Beginners to Advance&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.udemy.com/course/learn-c-game-development/&quot;&gt;Learn C++ Game Development&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.udemy.com/course/intro-to-programming-using-cpp-syntax/&quot;&gt;Getting Started with C++&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.udemy.com/course/unreal-engine-c-primer/&quot;&gt;Unreal Engine C++ Primer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.coursera.org/learn/c-plus-plus-white&quot;&gt;Основы разработки на C++: белый пояс&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.coursera.org/learn/c-plus-plus-red&quot;&gt;Основы разработки на C++: красный пояс&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.coursera.org/learn/c-plus-plus-yellow&quot;&gt;Основы разработки на C++: жёлтый пояс&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.coursera.org/learn/c-plus-plus-brown#instructors&quot;&gt;Основы разработки на С++: коричневый пояс&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.coursera.org/learn/c-plus-plus-black&quot;&gt;Основы разработки на С++: черный пояс&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=kRcbYLK3OnQ&amp;amp;list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&quot;&gt;Основы C++. Программирование для начинающих&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=qSHP98i9mDU&amp;amp;list=PL0lO_mIqDDFXNfqIL9PHQM7Wg_kOtDZsW&quot;&gt;С++ программирование / Уроки C++&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=YXbrMny86U0&amp;amp;list=PLrCZzMib1e9qjGLjg83bCksf3N7FIy7jg&quot;&gt;Углубленное программирование на C/С++&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=rZcTaRU7AAw&amp;amp;list=PLQOaTSbfxUtBm7DxblJZShqBQnBAVzlXX&quot;&gt;ООП C++&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=T78bC96dtsg&amp;amp;list=PLdhEOd5Bckb54U_bm9pS3eMQldHDyA8h_&quot;&gt;Язык программирования С++&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Hh_zeW2P8uo&amp;amp;list=PLrCZzMib1e9raTDJ5IyuSHe9AmOUHAAsr&quot;&gt;С/С++ углубленное программирование&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/c-c-program-compiler/id1160868782&quot;&gt;C/C++ Program Compiler&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/c-c-programming-language/id1016322367&quot;&gt;C/C++-programming language&lt;/a&gt;&lt;/p&gt;</content><author><name>Abhinav Saxena</name></author><summary type="html">Курсы Stepik</summary></entry><entry><title type="html">Math</title><link href="http://localhost:4000/math.html" rel="alternate" type="text/html" title="Math" /><published>2021-11-14T00:00:00+03:00</published><updated>2021-11-14T00:00:00+03:00</updated><id>http://localhost:4000/math</id><content type="html" xml:base="http://localhost:4000/math.html">&lt;h3 id=&quot;курсы-stepik&quot;&gt;Курсы Stepik&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/4938&quot;&gt;Уравнения&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/62208&quot;&gt;Теория вероятностей в решении задач ОГЭ и ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/97260&quot;&gt;ЕГЭ математика профиль. Задание 19&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/9737&quot;&gt;ЕГЭ по математике: первая часть&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/22402&quot;&gt;ЕГЭ по математике: экономическая задача&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/89251&quot;&gt;ЕГЭ математика профиль. Задание 15: неравенство&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/17869&quot;&gt;ЕГЭ и ОГЭ по математике: текстовая задача&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/8952&quot;&gt;ЕГЭ по математике: координатно-векторный метод&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/55461&quot;&gt;ЕГЭ (Математика) 1 часть kotolis.ru&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/19059&quot;&gt;ЕГЭ по базовой математике&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/70655&quot;&gt;Логарифмы из 1 части ЕГЭ по профильной математике&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/55936&quot;&gt;ЕГЭ по математике: неравенства&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/439&quot;&gt;Тренажёр ЕГЭ / Математика. Базовый уровень&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/74549&quot;&gt;ЕГЭ математика профиль. Задание 13: уравнение&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/55925&quot;&gt;ЕГЭ по математике: уравнения&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/90392&quot;&gt;ЕГЭ по математике: основные темы алгебры&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/63215&quot;&gt;ЕГЭ по математике. Геометрия. Задачи 3, 6, 8. Подготовка к 16&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/5352&quot;&gt;Неравенства&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/57593&quot;&gt;Школьный курс алгебры: 10 класс&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/57669&quot;&gt;Школьный курс геометрии: 10 класс&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/71236&quot;&gt;Олимпиадная Математика&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/83357&quot;&gt;Углубленный курс по математике&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;вконтакте&quot;&gt;Вконтакте&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://vk.com/bestpointsege&quot;&gt;100балльный репетитор Математика ЕГЭ 2022&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/umniqum_math&quot;&gt;Математика ЕГЭ 2022 УМНИКУМ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/math_web_prof&quot;&gt;Математика профиль ЕГЭ 2022 Вебиум&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/uchus.online&quot;&gt;ЕГЭ по математике Uchus.online&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/shkolapifagora&quot;&gt;Школа Пифагора ЕГЭ и ОГЭ по математике&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/oge_ege_matematika&quot;&gt;Математика ЕГЭ 2022 «ЗНАНИЕ»&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/myclass_maths&quot;&gt;ЕГЭ 2021 МАТЕМАТИКА myClass&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/umschmath&quot;&gt;Профильная математика ЕГЭ 2022 Умскул&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/turbo_math&quot;&gt;Математика (проф) ЕГЭ 2022 Турбоподготовка&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/examis_math&quot;&gt;Профильная математика ЕГЭ 2021 Examis&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/umsch_bm&quot;&gt;Базовая математика ЕГЭ 2022 Умскул&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/znayoumath&quot;&gt;МАТЕМАТИКА ЕГЭ 2021 #ЗНАЮ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/shkolkovo_math&quot;&gt;Школково Математика - ЕГЭ и Олимпиады 2022&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/mathege100&quot;&gt;Профильная Математика ЕГЭ СОТКА&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/sf_math&quot;&gt;Математика ЕГЭ 2022 SATTAROVFAMILY&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/math.ege.marks&quot;&gt;Математика ЕГЭ 2022 Маркс Академия&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/99ballov_math&quot;&gt;Математика ЕГЭ 2022 99 баллов&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/extra_maths&quot;&gt;Математика ЕГЭ 2022 eXtra вебинары&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/partamath&quot;&gt;Математика ЕГЭ 2022 PARTA&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/lectarium.math&quot;&gt;Профильная математика ЕГЭ 2022 ЛЕКТАРИУМ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/alted_math&quot;&gt;Математика ЕГЭ 2022 AltED&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;телеграм&quot;&gt;Телеграм&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/ege_math_matematika&quot;&gt;Математика ЕГЭ 2021&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/mgu91&quot;&gt;Слив математик МГУ 13 номер&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/profilapr&quot;&gt;Умскул профиль апрель&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/Mathstudyonline14&quot;&gt;Математик МГУ 14 номер&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/egemath&quot;&gt;ЕГЭ математика&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/matanuzu&quot;&gt;Умскул математика&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/mathstudyonline16&quot;&gt;Математик МГУ 16 номер&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/Pifagor18Sliv&quot;&gt;Параметры пифагор&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/Legion100ball&quot;&gt;Стобалльный легион 2021 слив&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/slivstobalnogo&quot;&gt;Слив математики 8 миля (100бальный репетитор)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/mathege91&quot;&gt;Слив умскул январь&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/egemjji&quot;&gt;Слив умскул февраль&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/legionn91&quot;&gt;Слив легион&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/foxford_2049&quot;&gt;Трушин Годовой-1 — 2020-2021&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/foxford_2748&quot;&gt;Трушин Годовой-2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/profilfoxfordmaterialschastc&quot;&gt;ПРОФИЛЬ ФОКСФОРД&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/lisiymatematikizbrazzers&quot;&gt;Математик МГУ 14 другая ссылка&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/matematikmgu&quot;&gt;Математик МГУ 15&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/hitmanmgu16&quot;&gt;Математик МГУ 16 другая ссылка&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/profil_matan&quot;&gt;Курсы Пифагора (1-19)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/pifagor_1_12&quot;&gt;Пифагор 1-12&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/pifagor_13&quot;&gt;Пифагор 13&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/pifagor_14&quot;&gt;Пифагор 14&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/pifagor_15&quot;&gt;Пифагор 15&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/pifagor16&quot;&gt;Пифагор 16&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/pifagor_17&quot;&gt;Пифагор 17&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/vspomnit_vce&quot;&gt;Вспомнить всё Пифагор&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/PifagorSliv18&quot;&gt;Пифагор 18&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/sbornikiexamhub&quot;&gt;Сборники ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/egenum17&quot;&gt;Пифагор 17 задание 2019&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/sliv_mg_8mil1&quot;&gt;8 миля январь-февраль&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/sliv_mg_8mil2&quot;&gt;8 миля февраль-март&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/sliv_mg_8mil3&quot;&gt;8 миля март-апрель&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/V0p3TxMgyFI3NmI6&quot;&gt;Профиль май&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/XFQL1xCft4ZiOGQy&quot;&gt;Профиль апрель&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/matempr&quot;&gt;Сливы по математике умскул&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/matemegefree&quot;&gt;Пифагор Стобалльный&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ютуб&quot;&gt;Ютуб&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCvffROOTDLzYGb4_9-ReyOg&quot;&gt;Профильная математика ЕГЭ Умскул&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCVRNxMa4wFwGdBPaDsm7RjQ&quot;&gt;МАТЕМАТИКА ЕГЭ 2022 99 БАЛЛОВ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCLWfIh7UxqeKvwEGpm7Df4g&quot;&gt;Математика ЕГЭ PARTA&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCSdmht0kbvfnItRMNcr4qZA&quot;&gt;Математик МГУ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCg7l5ywjIvKSYdbUQ8u9xuA&quot;&gt;МАТЕМАТИКА ЕГЭ ЕЛЕНА ЯКОВЛЕВА&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCMAWmYP-y4HMWl0HETbQ6pA&quot;&gt;ПРОФИЛЬНАЯ МАТЕМАТИКА ЕГЭ 2021 СОТКА&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/user/lomonosovclubvideo&quot;&gt;uchus.online&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCS3LBK0zy47iQgVApQo-fww&quot;&gt;Pavel Maslov&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC7Z3j8Cgsa2NnBmKAl7uOuQ&quot;&gt;Школа Пифагора ЕГЭ по математике&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCY0lk0ICkkt66tvdaGPb7ng&quot;&gt;Проф ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/user/trushinbv&quot;&gt;Борис Трушин&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/c/WildMathing&quot;&gt;Wild Mathing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UChE2sc5N7PfdV-yN2_ctvtg&quot;&gt;GetAClass - Просто математика&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/user/dmitrysinyaev&quot;&gt;eXtraTeam&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCLDpIKDTFBSwIYtAG0Wpibg&quot;&gt;Valery Volkov&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCQtGECr_BS5SrJAWvPLZYXg&quot;&gt;Базовая математика умскул&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/user/irek1743&quot;&gt;100балльный репетитор&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=vEKU4uCfSPA&amp;amp;list=PLyaIML-lLt0KaBpGwIx5OkZhzdHDym5Xt&quot;&gt;Маркс академия плейлист&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Eerq12hySi4&amp;amp;list=PLx4TjjY1YjzAdJJxV-LXBwzOkJ_OhY1sY&quot;&gt;Pi-fi математика&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=HMhJ1SBK4X8&amp;amp;list=PLx4TjjY1YjzCUFq69NM_MCwq93njpCq7s&quot;&gt;Pi-fi профиль&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=RVsTW8q7S6c&amp;amp;list=PLx4TjjY1YjzAYpFTCVFiKbyluiwJz2JQk&quot;&gt;Pi-fi профиль база&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=mzoPBmkiNqc&amp;amp;list=PL3h_ugF4cInV3sn7uXfHmADxmZqnPyheE&quot;&gt;ДВИ МГУ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=mXyFcfYWmEk&amp;amp;list=PL3h_ugF4cInW1BIVEClIFiZPM4yxT-4_w&quot;&gt;ЕГЭ 2022 Школково&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=1MGx0L6Ogl0&amp;amp;list=PL3h_ugF4cInVwRJYufiEoQf3Bhv5XftcM&quot;&gt;ЕГЭ 2020 оформление 2 части&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=iGB_DB2sI8w&amp;amp;list=PL3h_ugF4cInUZZkeNNmOOfg5Q0qfFaRW1&quot;&gt;ЕГЭ 2021&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=V4eySFtBuX4&amp;amp;list=PL3h_ugF4cInWXl1v32MmZz47lSwRWRIHv&quot;&gt;1 часть ЕГЭ 2020&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ciiZuz4xS6Q&amp;amp;list=PL3h_ugF4cInXl4Frv-NHpOY24VdeltVW7&quot;&gt;16 номер&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=0_GJhvfvqdE&amp;amp;list=PL3h_ugF4cInX2rAhvlYwZPGvEgZfGGFK3&quot;&gt;17 номер&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=KZPdyJnqp_Q&amp;amp;list=PL3h_ugF4cInUMa4dozjVknbgh7vV4iAwm&quot;&gt;19 номер&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=HJOhUcETUKE&amp;amp;list=PL3h_ugF4cInVdbmFQ48ichsiHemMpJmEh&quot;&gt;15 номер&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=WiiFdA6qx5g&amp;amp;list=PL3h_ugF4cInV7YF_SSLH-ExMN7R0Dq0bV&quot;&gt;ЕГЭ 2021 1 часть&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=6e-E2xipYpc&amp;amp;list=PLzPXw7ihrLzTAM2IG1RgqdTqLqr_tyZEF&quot;&gt;ExamHack плейлист&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=YF8GX6wN3dU&amp;amp;list=PLzPXw7ihrLzQWRt6BwXTECcwLQn2RYNz6&quot;&gt;ExamHack летняя школа&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=UECl_Q_6f9Y&amp;amp;list=PLgbNuJC3cOmyKLgL36K2qgpCLzLTdnfIs&quot;&gt;Новая школа плейлист&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=JPdEMddQBaU&amp;amp;list=PLgbNuJC3cOmw7VVXZ2JtrKBbyls-W5xQa&quot;&gt;Новая школа мини-уроки&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=sKmTArdB5pI&amp;amp;list=PLC6tee4YS8s1gIm4xytCJttwPmNKFz5Gd&quot;&gt;Фабрика ЕГЭ плейлист&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=xQ5RgWZrVKM&amp;amp;list=PLFLihuUc2w1DS3l-skvULv_Q9fD8SPVfS&quot;&gt;ЕГЭ по математике с экспертом&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=9ptNxUH-lfY&amp;amp;list=PLNG6BIg2XJxBPMDNpPW8RBLRhJ9ZUIEtM&quot;&gt;Яндекс просвещение 2018&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=qMVppy24yeM&amp;amp;list=PLCUIMF0QWtNhEl2mS0VUMSae4ogba-FF6&quot;&gt;ЕГЭ 2022 Lomonosov School&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;облако&quot;&gt;Облако&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://disk.yandex.ru/d/jWlEgPt0Q7pbuA/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&quot;&gt;Полезные материалы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://disk.yandex.ru/d/AxRwHbEx9gJnqg&quot;&gt;Подготовка к региональному этапу Всероссийской олимпиады&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://disk.yandex.ru/d/LfusFOrL3WbkxS&quot;&gt;Теория чисел&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://disk.yandex.ru/d/QOIk2Kqovc0yTA&quot;&gt;Подготовка к олимпиадам «Ломоносов», ОММО, ПВГ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1M3B8q-yoZFjYRP6o3UWMn57DdtpnaVa-QtBxeTRAGts/edit#heading=h.cwnn4cpfv6oc&quot;&gt;Задачник Павла Маслова&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://disk.yandex.ru/d/ZjwU9gwjjsRP3g&quot;&gt;Логарифм и экспонента (миникурс)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/ezxWSCaL#3XPe3dRspzkoL74uVz_tLg&quot;&gt;Подготовка к олимпиадам «Ломоносов», ОММО, ПВГ по математике&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://drive.google.com/drive/folders/1GiUtX9ow_JgJ_67_O8_5Io3a0s8XGLSQ&quot;&gt;Пифагор&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://drive.google.com/drive/folders/121gazfW8qC4s08Az56fQm3wLtBMrVYLx&quot;&gt;Дз с какого-то урока&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://disk.yandex.ru/d/b-IR1yyJl7xdjQ&quot;&gt;Ещё материалы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/x4tS3YiL#QXzBbRJH2P14fjDSZzIvDg&quot;&gt;Математика ЕГЭ. Интенсив-курс 2019&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/#F!tSonXY6J!GE75bbyXw7cF0P4y1yJTdg&quot;&gt;Математика - Предел последовательности&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://disk.yandex.ru/d/AVG_fqdGCjX_Uw&quot;&gt;Опять материалы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://disk.yandex.ru/d/KBOGGfuw4EGfkA&quot;&gt;Задача 18 егэ трушин&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/tanookki/FizMatInf/tree/master/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&quot;&gt;Снова материалы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/HXgwTLzQ#5VgTKJvGKh_3VxfNctx9HQ&quot;&gt;Презентации. Математика. C-часть. 2018&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/#F!wWhAzS7J!yFx74dbv66CZGLWkTiFgjQ&quot;&gt;Математика - Сравнения по модулю миникурс&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/vagE3aCa#i20C7ttAZavCPhe4SAfqeg&quot;&gt;Подготовка к ЕГЭ 10 класс&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/br4g1CRb#Yi_hw2wmK4BPe7fXCQmA4Q&quot;&gt;Подготовка к олимпиадам по математике (9 класс)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://disk.yandex.ru/d/Ban_jjxM3WbeQY&quot;&gt;Параметры&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://disk.yandex.ru/d/dNIoDTyW3ajwh7&quot;&gt;tasks_maths_olymp_9&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://yadi.sk/d/V8QhDDIAldjZNQ&quot;&gt;Подготовка к олимпиадам из Перечня РСОШ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/IZ9CDarJ#ol_8oe2BQRSWz6L3_ps8IA&quot;&gt;Курс подготовки к ЕГЭ по математике 11 класс часть C (Задания 13–19)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/t0EW2ACT#fY-ATw0lvjzY6wpiqloimw&quot;&gt;2 часть пифагор&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://disk.yandex.ru/d/p5EdqMRD8xLZBA&quot;&gt;Задание 19 егэ трушин&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://cloud.mail.ru/public/26aB/YRvzhyJe1/&quot;&gt;Теория и задачи&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/#F!x4tS3YiL!QXzBbRJH2P14fjDSZzIvDg&quot;&gt;Математика ЕГЭ. Интенсив-курс 2019&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://disk.yandex.ru/d/VpO8uoXWqzfwVg&quot;&gt;Векторный метод в пространстве&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/ezxWSCaL#3XPe3dRspzkoL74uVz_tLg&quot;&gt;Подготовка к олимпиадам «Ломоносов», ОММО, ПВГ по математике&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://drive.google.com/file/d/1el3ybo10IzTItsYRolYadd7NP2UL3QJo/view&quot;&gt;Текстовые задачи по математике&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/bTIElQIR#qh3T2KLdoSy7STgFKSe4Bw&quot;&gt;Курс подготовки к ЕГЭ по математике 10 класс&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/upoWxSpD#k1oTK1U0p6t4wLZFFS6naQ&quot;&gt;ДВИ МГУ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://disk.yandex.ru/d/jWlEgPt0Q7pbuA/%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8%20%D0%BE%D1%82%20%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0%20%D0%B0%D0%B2%D0%B0%D0%BD%D1%82%D0%B0%2C%20%D0%BF%D0%BE%D1%87%D1%82%D0%B8%20%D0%B2%D1%81%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B%2C%20%D0%B8%D0%B4%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D1%8F&quot;&gt;Куча книг&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://neznaika.info/ege/matem/p/&quot;&gt;Незнайка профиль&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://neznaika.info/ege/matem/b/&quot;&gt;Незнайка база&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=sDRbsLZRK_c&amp;amp;list=PLsFA6mM3DNuanMu52EA8dRvRGHRcoS6MM&quot;&gt;Годограф ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/LO5ThIyJ#O2bAf058daQ_z57fXxhpyQ&quot;&gt;Курс подготовки к олимпиаде «Физтех» по математике 11 класс&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;сайты&quot;&gt;Сайты&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://infourok.ru/biblioteka/matematika&quot;&gt;Материалы инфоурок&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.wolframalpha.com/&quot;&gt;wolfram alpha&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mathus.ru/math/index.php&quot;&gt;Math us&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://alexlarin.net/&quot;&gt;Сайт Александра Ларина&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://foxford.ru/referrals/7193555&quot;&gt;Фоксфорд + 2000₽&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://math-prosto.ru/&quot;&gt;Школьная математика&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.desmos.com/&quot;&gt;Тут можно строить графики&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://egemaximum.ru/&quot;&gt;egemaximum&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bingoschool.ru/ege/maths-base/tasks/&quot;&gt;База&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bingoschool.ru/ege/maths-profile/tasks/&quot;&gt;Профиль&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://math100.ru/&quot;&gt;math100/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://uchus.online/&quot;&gt;uchus.online&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://youclever.org/book/&quot;&gt;Теория&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://4ege.ru/matematika/&quot;&gt;4ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kursagent.ru/webs/&quot;&gt;Календарь вебинаров&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://bookash.pro/ru/t/%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0+%D0%BA+%D0%95%D0%93%D0%AD/&quot;&gt;Книги ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://yandex.ru/tutor/subject/?subject_id=2&quot;&gt;Яндекс репетитор профиль&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://yandex.ru/tutor/subject/?subject_id=1&quot;&gt;Яндекс репетитор база&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://math-ege.sdamgia.ru/&quot;&gt;Решу ЕГЭ профиль&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mathb-ege.sdamgia.ru/&quot;&gt;Решу ЕГЭ база&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://fipi.ru/ege/demoversii-specifikacii-kodifikatory#!/tab/151883967-2&quot;&gt;Демоверсии, спецификации, кодификаторы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://fipi.ru/ege/perspektivnyye-modeli#!/tab/261252039-2&quot;&gt;Перспективные модели ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://fipi.ru/ege/analiticheskie-i-metodicheskie-materialy#!/tab/173737686-2&quot;&gt;Аналитические и методические материалы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://fipi.ru/ege/otkrytyy-bank-zadaniy-ege#!/tab/173765699-2&quot;&gt;Открытый банк заданий&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://fipi.ru/ege/otkrytyy-bank-zadaniy-ege/otkrytyye-varianty-kim-ege#!/tab/310119616-2&quot;&gt;Открытые варианты КИМ ЕГЭ 2021&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://mirege.ru/mathematics_ege/&quot;&gt;Мир ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://spadilo.ru/ege-po-matematike/&quot;&gt;Спадило&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.examen.ru/add/tests/testyi-po-matematike/&quot;&gt;examen.ru&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;android&quot;&gt;Android&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.microblink.photomath&amp;amp;hl=ru&amp;amp;gl=ru&quot;&gt;Photomath&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://moddroid.com/download/photomath-44478&quot;&gt;Photomath PLUS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.nsc.mathformulas.lite&amp;amp;hl=ru&amp;amp;gl=ru&quot;&gt;Формулы Free&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=example.matharithmetics&amp;amp;hl=ru&amp;amp;gl=ru&quot;&gt;Математические хитрости&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=matematika.math.ege&quot;&gt;Математика ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=ru.foxford.foxfordtextbook&quot;&gt;Фоксфорд учебник&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=ege.exam&quot;&gt;ЕГЭ 2022&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.companyname.MaturaMatematyka&quot;&gt;Learn Math: Arithmetic to Trigonometry &amp;amp; Fractions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.studyapps.math&quot;&gt;Математика - школьный курс. Подготовка ЕГЭ и ОГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=ru.houseofapps.prostoege&quot;&gt;Простой ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ios&quot;&gt;iOS&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/id919087726&quot;&gt;Photomath&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/id1209287132&quot;&gt;Математические хитрости (100+)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/id645431389&quot;&gt;Формулы Lite&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA-%D0%BF%D0%BE-%D1%88%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC-%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%B0%D0%BC-%D0%BE%D1%82-%D1%84%D0%BE%D0%BA%D1%81%D1%84%D0%BE%D1%80%D0%B4/id930911649&quot;&gt;Фоксфорд учебник&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/%D0%B5%D0%B3%D1%8D-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0-2022/id1198031689&quot;&gt;ЕГЭ 2022&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/%D0%B5%D0%B3%D1%8D-2020-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0-%D0%B1%D0%B0%D0%B7%D0%B0/id1457382868&quot;&gt;ЕГЭ 2020 Математика База&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0-%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F-%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0/id1528282970&quot;&gt;Математика - геометрия алгебра&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B9-%D0%B5%D0%B3%D1%8D/id1164254385&quot;&gt;Простой ЕГЭ&lt;/a&gt;&lt;/p&gt;</content><author><name>Abhinav Saxena</name></author><summary type="html">Курсы Stepik</summary></entry><entry><title type="html">Monday</title><link href="http://localhost:4000/monday.html" rel="alternate" type="text/html" title="Monday" /><published>2021-11-14T00:00:00+03:00</published><updated>2021-11-14T00:00:00+03:00</updated><id>http://localhost:4000/monday</id><content type="html" xml:base="http://localhost:4000/monday.html">&lt;h2 id=&quot;расписание&quot;&gt;Расписание&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;1. География&lt;/strong&gt;&lt;/p&gt;
 
@@ -27,7 +888,571 @@
 
 &lt;p&gt;&lt;strong&gt;7. ФК&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;домашняя-работа&quot;&gt;Домашняя работа&lt;/h2&gt;</content><author><name>Abhinav Saxena</name></author><summary type="html">Расписание</summary></entry><entry><title type="html">Thursday</title><link href="http://localhost:4000/thursday.html" rel="alternate" type="text/html" title="Thursday" /><published>2021-11-14T00:00:00+03:00</published><updated>2021-11-14T00:00:00+03:00</updated><id>http://localhost:4000/thursday</id><content type="html" xml:base="http://localhost:4000/thursday.html">&lt;h2 id=&quot;расписание&quot;&gt;Расписание&lt;/h2&gt;
+&lt;h2 id=&quot;домашняя-работа&quot;&gt;Домашняя работа&lt;/h2&gt;</content><author><name>Abhinav Saxena</name></author><summary type="html">Расписание</summary></entry><entry><title type="html">Others</title><link href="http://localhost:4000/others.html" rel="alternate" type="text/html" title="Others" /><published>2021-11-14T00:00:00+03:00</published><updated>2021-11-14T00:00:00+03:00</updated><id>http://localhost:4000/others</id><content type="html" xml:base="http://localhost:4000/others.html"></content><author><name>Abhinav Saxena</name></author><summary type="html"></summary></entry><entry><title type="html">Phs</title><link href="http://localhost:4000/phs.html" rel="alternate" type="text/html" title="Phs" /><published>2021-11-14T00:00:00+03:00</published><updated>2021-11-14T00:00:00+03:00</updated><id>http://localhost:4000/phs</id><content type="html" xml:base="http://localhost:4000/phs.html">&lt;h3 id=&quot;облако&quot;&gt;Облако&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/phNGGCSA#bOnNCKQqNFRuuCC6C2ceRQ&quot;&gt;Подготовка к олимпиадам «Физтех», «Росатом», «Ломоносов»&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/#F!7ngCiC5T!_tkM6qo1VFLlPJJDB-EPCQ&quot;&gt;Физика. Подготовка к ЕГЭ. Часть B (Задания 1-27&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/D3QGQCKS#RCcL2gdroOETqR8CYqW-rA&quot;&gt;9-11 кл - Физика - Методы расчёта разветвлённых…&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/XWBAHQLZ#bFdDHnqx1uUq0h7gLxdfxw&quot;&gt;Физтех 2018&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/TrBk0I6R#K2DtfwTMUeVj-wddZZx-VA&quot;&gt;9-11 кл - Физика - Экспериментальная физика миникурс&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/SmQmmCjD#knIpGZMIDEXgS5rVmDUxsg&quot;&gt;9-11 кл - Физика - Тепловые явления&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://disk.yandex.ru/d/oWVeHXOp3aXrUh&quot;&gt;Разные подходы к решению задач по гидростатике&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://disk.yandex.ru/d/h7kaU9Mj3a5fGa&quot;&gt;Задачи по физике&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/#F!ckkhTIRY!D0WREaqE2jCCk8op0BfDfw&quot;&gt;Магнетизм и электромагнитная индукция в олимпиадах 11 класса (мини-курс по физике)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/#F!JaQnxaIY!eecNMOFIo6CWFv3v2feWPw&quot;&gt;Физика 2019. Подготовка к ЕГЭ часть С (задания 28–32)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/tanookki/FizMatInf/tree/master/%D0%A4%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0&quot;&gt;Куча материалов&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/anB2xIaZ#BwslrBueo0utACSnGXL8ZA&quot;&gt;10-11 кл - Физика - Кинематические связи в задачах&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://disk.yandex.ru/d/2pezugnf3aXrUR&quot;&gt;Метод потенциалов на примере всевозможных цепей постоянного тока&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/#F!LO5ThIyJ!O2bAf058daQ_z57fXxhpyQ&quot;&gt;Курс подготовки к олимпиаде «Физтех» по математике 11 класс&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/ckkhTIRY#D0WREaqE2jCCk8op0BfDfw&quot;&gt;Магнетизм и электромагнитная индукция в олимпиадах 11 класса (мини-курс по физике&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://yadi.sk/d/qTfLE88L3WYDwV&quot;&gt;Мини-курс. Магнетизм и электромагнитная индукция&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/nvhniQxD#5p07SQGsfjOGsZ0T-A2u1w&quot;&gt;Физика. Подготовка к олимпиадам. 10 класс&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/#F!W7QUDayS!YgJiM2rU45TVpokrZTLeKQ&quot;&gt;9-11 кл - Физика - Геометрическая оптика&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://disk.yandex.ru/d/jWlEgPt0Q7pbuA/%D0%A4%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0&quot;&gt;Ещё материалы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/dWZ3ESAJ#7AvKeNfd-dDPH9b0LwEihw&quot;&gt;10-11 кл - Физика - Классическая астрономия&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/vrhllCKB#Mo5ebF8JJGsULfJgu3f9Lg&quot;&gt;Физика. Подготовка к ЕГЭ. Часть С&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://disk.yandex.ru/d/l1ZDVoKHagwxdg&quot;&gt;Материалы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/#F!IaJjDQDY!zGKANe_IINRUrIyYTjmIvQ&quot;&gt;10 кл - Физика - Базовый уровень&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/bOp2FbrJ#eR7EbmgcBX82xEVJZpY4QA&quot;&gt;Презентации. Физика. C-часть. 2018&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://disk.yandex.ru/d/jWlEgPt0Q7pbuA/%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8%20%D0%BE%D1%82%20%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0%20%D0%B0%D0%B2%D0%B0%D0%BD%D1%82%D0%B0%2C%20%D0%BF%D0%BE%D1%87%D1%82%D0%B8%20%D0%B2%D1%81%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B%2C%20%D0%B8%D0%B4%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D1%8F&quot;&gt;Куча книг&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;курсы-stepik&quot;&gt;Курсы Stepik&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/672&quot;&gt;Подготовка к ЕГЭ по физике (интенсивный курс)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/50024&quot;&gt;Как подготовиться к ЕГЭ по физике&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ютуб&quot;&gt;Ютуб&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCSdDqsIYf9v5UEWTNda1YBw/playlists&quot;&gt;РЛ Физика&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCL2FlJuHlhrY1OKMjQzRSLA&quot;&gt;Михаил Пенкин&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC_jNXpOyot7jGc9ShI6tLNQ&quot;&gt;ФИЗИКА ЕГЭ 2021 СОТКА&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCnooVihOGi-BLP20XdW_vBw&quot;&gt;физика - Романов Владимир&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCjcWcUOT55M2VAWspD2tPqQ&quot;&gt;Физика ЕГЭ Умскул&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCEhASExeRZpsWVvuDwdQoDQ&quot;&gt;Физика - Владислав Карибьянц&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCIXvSN3PT1-N2Rm7PUuJH2Q&quot;&gt;ЕГЭ ФИЗИКА - Александр Мирошниченко&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCUdHH2tcdRoRYGqCIxWkYhw&quot;&gt;Физика ЕГЭ PARTA&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCuJpM1F9hd6kOV22DgBInVw&quot;&gt;ЕГЭ/ОГЭ Физика&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLrpByJxegBQb8nArUHJxJsgxr6lt8wHKL&quot;&gt;Курс подготовки к ЕГЭ 2017&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCL3Z-XGfv7t-VyxZaE50Kqw&quot;&gt;Эбонит Физика ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=c_kZSsoROxQ&amp;amp;list=PLx4TjjY1YjzBADaeCCzBdbJCg72GJSKYV&quot;&gt;Pi-Fi ЕГЭ Физика&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=fWkYDsdlb_E&amp;amp;list=PL3h_ugF4cInV6gsIIMPv8ti1vuAC0g66Y&quot;&gt;Школково плейлист 2021&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Hf2Pbtr9xbs&amp;amp;list=PL3h_ugF4cInXSMpdaQz7Ezx0eySxTMkfm&quot;&gt;Школково плейлист 2022&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=wqpfbmtwPXw&amp;amp;list=PLzPXw7ihrLzTUGYxoi05nvK3eqwfhxm88&quot;&gt;ExamHack физика плейлист&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Rw4kDmDOFU8&amp;amp;list=PLC6tee4YS8s2fn0oXUUsdksDR8QAowqet&quot;&gt;Фабрика ЕГЭ плейлист&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=2oj6R3uX3MA&amp;amp;list=PLFLihuUc2w1D7I-rfL5-k0exWG95qmib8&quot;&gt;ЕГЭ 2021 по физике плейлист&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=MmpSpHPn3aw&amp;amp;list=PLNG6BIg2XJxB_nRHMZM2wp0CHKWS5Gcxd&quot;&gt;Яндекс просвещение плейлист&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=St5-oUR2EdI&amp;amp;list=PLCUIMF0QWtNgVawF0_kVS9ycFbbIWzcIe&quot;&gt;Lomonosov School плейлист&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=lr1KQQK3r38&amp;amp;list=PLsFA6mM3DNuYpEp-GHmEqiC51FOWnLz_2&quot;&gt;Годограф 2016 плейлист&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=0c5A-4RNTw8&amp;amp;list=PLsFA6mM3DNubYuBOl9Ca-eMKB8fKKPs6f&quot;&gt;Годограф 2022 плейлист&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=JjmTE-UfHiA&amp;amp;list=PLXYUoAtHePyZaN3mj_7Cn6MHlMXdb8n7M&quot;&gt;ЕГЭLand физика&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;вконтакте&quot;&gt;Вконтакте&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/examis_ph&quot;&gt;Физика ЕГЭ 2021 EXAMIS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/turbo_phys&quot;&gt;Физика ЕГЭ 2022 Турбоподготовка&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/ege_ebonit&quot;&gt;Эбонит Физика ЕГЭ 2022&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/99ballov_phys&quot;&gt;Физика ЕГЭ 2022 99 баллов&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/lectarium.physics&quot;&gt;Физика ЕГЭ 2022 ЛЕКТАРИУМ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/ege_newton&quot;&gt;Физика ЕГЭ Техноскул&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/physics_100&quot;&gt;Физика ЕГЭ 100БАЛЛОВ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/ege_phisics&quot;&gt;ЕГЭ Физика&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/teslaege&quot;&gt;Физика ЕГЭ 2022 Умскул&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/phys_ege_sf&quot;&gt;Физика ЕГЭ 2022 SATTAROVFAMILY&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/partaphys&quot;&gt;Физика ЕГЭ 2022 PARTA&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/shkolkovo_fiz&quot;&gt;Школково Физика - ЕГЭ и Олимпиады 2021&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/fiz100ege&quot;&gt;Физика ЕГЭ СОТКА&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/ege_phys&quot;&gt;ЕГЭ/ОГЭ-2022 по физике&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;телеграм&quot;&gt;Телеграм&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/shkolkovo3&quot;&gt;ФИЗИКА ШКОЛКОВО ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/fizika_al&quot;&gt;fizika_al  Физика ЕГЭ ОГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/egenewton&quot;&gt;ЕГЭ ФИЗИКА ТЕХНОСКУЛ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/egehackphysics&quot;&gt;ФИЗИКА С ЭМИЛЕМ ИСМАИЛОВЫМ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/ege_fizika1&quot;&gt;Физика Умскул ЕГЭ СЛИВ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/fizicsbegynov&quot;&gt;Физика Бегунов&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/fizikaumskul&quot;&gt;Физика. Умскул. ЕГЭ. Слив&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/fiz100ege&quot;&gt;Физика ЕГЭ СОТКА&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/ege_fizika&quot;&gt;ЕГЭ Физика&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;сайты&quot;&gt;Сайты&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://foxford.ru/referrals/7193555&quot;&gt;Фоксфорд + 2000₽&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kursagent.ru/webs/&quot;&gt;Вебинары&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.lektorium.tv/subject/2613&quot;&gt;Лекции по физике&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rl.odessa.ua/index.php/ru/biblioteka/fizika&quot;&gt;Много материалов&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bingoschool.ru/ege/physics/tasks/&quot;&gt;bingoschool&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://mirege.ru/fizika/&quot;&gt;МирЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://spadilo.ru/ege-po-fizike/&quot;&gt;Спадило&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.examen.ru/&quot;&gt;ЭкзаменРу&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://fipi.ru/ege/demoversii-specifikacii-kodifikatory#!/tab/151883967-3&quot;&gt;Демоверсии, спецификации, кодификаторы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://fipi.ru/ege/perspektivnyye-modeli#!/tab/261252039-4&quot;&gt;Перспективные модели по физике&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://fipi.ru/ege/otkrytyy-bank-zadaniy-ege#!/tab/173765699-3&quot;&gt;Открытый банк заданий ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://fipi.ru/ege/otkrytyy-bank-zadaniy-ege/otkrytyye-varianty-kim-ege#!/tab/310119616-3&quot;&gt;Открытые варианты КИМ ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://phys-ege.sdamgia.ru/&quot;&gt;Решу ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://neznaika.info/ege/physics/&quot;&gt;Незнайка&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://yandex.ru/tutor/subject/?subject_id=4&quot;&gt;Яндекс репетитор&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://4ege.ru/fizika/&quot;&gt;4ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;android&quot;&gt;Android&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=ru.foxford.foxfordtextbook&quot;&gt;Фоксфорд учебник&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.nsc.pf.free&amp;amp;hl=ru&amp;amp;gl=ru&quot;&gt;Физические Формулы Free&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.studyapps.phys&amp;amp;hl=ru&amp;amp;gl=ru&quot;&gt;Физика - весь школьный курс&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=ru.myappbook.FormFizikShparg&quot;&gt;Формулы по физике. Шпаргалка&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.AvvaStyle.physics&quot;&gt;Школьная физика – это просто&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.kalinovskiy.physicsquiz&quot;&gt;Викторина по физике&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.lukaville.cribsheet.phys&quot;&gt;Физика&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=ru.wildwarriors.physics&quot;&gt;Физика&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.devmylab.phusicstf&quot;&gt;Физика - термины и формулы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ybkv.fzks&quot;&gt;Физика&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=tk.maxonandroiddev.physicalformula&quot;&gt;Формулы по физике&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.lunio.Znaniya&quot;&gt;Знания - Физика&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=vbtoms00.konspect&quot;&gt;Физика. Конспекты&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=ru.trainer.physics2&quot;&gt;Физика от А до Я, помощник ЕГЭ 2021&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.zazubrim.vidal.physicsstudy&quot;&gt;Зазубрим формулы по физике&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.mk_publisher.calc&quot;&gt;Калькулятор физика - расчеты, формулы, конвертер&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.AvvaStyle.physics&quot;&gt;Школьная физика – это просто&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.studyapps.phys&quot;&gt;Физика - весь школьный курс. Подготовка ЕГЭ и ОГЭ.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=fizika.physics.ege&quot;&gt;ЕГЭ Физика&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.davvie.PhysicsHelper&quot;&gt;Физика - формулы и таблицы, ЕГЭ и ОГЭ 2022&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ios&quot;&gt;iOS&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/us/app/foksford-ucebnik/id930911649?l=ru&amp;amp;ls=1&quot;&gt;Фоксфорд учебник&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/id814896887&quot;&gt;Физические Формулы Lite&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/us/app/id1436198804&quot;&gt;Физика - формулы и таблицы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/us/app/id1527862654&quot;&gt;Физика - ЕГЭ, учебник, 2021&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/us/app/id961352804&quot;&gt;Книга Формул&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/us/app/id1216154080&quot;&gt;ЕГЭ Физика 2022&lt;/a&gt;&lt;/p&gt;</content><author><name>Abhinav Saxena</name></author><summary type="html">Облако</summary></entry><entry><title type="html">Rus</title><link href="http://localhost:4000/rus.html" rel="alternate" type="text/html" title="Rus" /><published>2021-11-14T00:00:00+03:00</published><updated>2021-11-14T00:00:00+03:00</updated><id>http://localhost:4000/rus</id><content type="html" xml:base="http://localhost:4000/rus.html">&lt;h3 id=&quot;курсы-stepik&quot;&gt;Курсы Stepik&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/70727&quot;&gt;ЕГЭ по русскому: нормальные варианты&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/7798&quot;&gt;Подготовка к ЕГЭ по русскому языку&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/83605&quot;&gt;Русский язык. Подготовка к ЕГЭ 2022&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/100523&quot;&gt;Курс по 5 заданию&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/88116&quot;&gt;ЕГЭ по русскому языку (разбор 2,8,16,17 заданий)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/92321&quot;&gt;Задание 2 ЕГЭ по русскому языку 2021&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/89510&quot;&gt;Задание 12 ЕГЭ по русскому языку 2021&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/734&quot;&gt;Подготовка к ЕГЭ по русскому языку (интенсивный курс)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/78491&quot;&gt;Готов к TruD’у Тотальный диктант&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/88211&quot;&gt;Русская пунктуация: болевые точки… и двоеточия&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://stepik.org/course/8708&quot;&gt;Никогда не пиши «ни когда». Тотальный диктант&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;вконтакте&quot;&gt;Вконтакте&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/partaruss&quot;&gt;Русский язык ЕГЭ 2022 PARTA&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/academixrus&quot;&gt;Русский язык ЕГЭ 2022 АКАДЕМИКС&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/lectarium.russian&quot;&gt;Русский язык ЕГЭ 2022 ЛЕКТАРИУМ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/egeoffrusskiy&quot;&gt;ЕГЭ OFF РУССКИЙ ЯЗЫК 2021&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/moodege.russ&quot;&gt;MOOD: ЕГЭ Русский язык&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/examis_rus&quot;&gt;Русский язык ЕГЭ 2021 Examis&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/sotochka_ege&quot;&gt;Соточка по русскому ЕГЭ 2021 РУССКИЙ ЯЗЫК&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/umsch_r&quot;&gt;Русский язык ЕГЭ 2022 Умскул&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/99ballov_rus&quot;&gt;Русский язык ЕГЭ 2022 99 баллов&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/sf_100_ege&quot;&gt;Русский язык ЕГЭ 2022 SATTAROVFAMILY&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/rusege100&quot;&gt;Русский язык ЕГЭ СОТКА&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/rus_web_ege&quot;&gt;Русский язык ЕГЭ 2022 Вебиум&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/turbo_rus&quot;&gt;Русский язык ЕГЭ 2022 Турбоподготовка&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/shkolkovo_rus&quot;&gt;Школково Русский язык - ЕГЭ 2021&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/russian_100&quot;&gt;Русский язык ЕГЭ 100БАЛЛОВ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vk.com/russian__ege&quot;&gt;ПРО100 ЕГЭ Русский язык&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;телеграм&quot;&gt;Телеграм&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/sotkaruss&quot;&gt;Слив сотки&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/T78qQ7SsXIh1GLKt&quot;&gt;Слив сочинение от Вики Мороз&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/SochinenieOtSotochki&quot;&gt;Сочинение соточка по русскому&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/russkiy_ege&quot;&gt;Русский язык&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/egerussia&quot;&gt;ЕГЭ русский язык&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/UmschoolRussYear2021&quot;&gt;Слив годового курса умскул&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/ege2021russian&quot;&gt;ПостУроки ЕГЭ РУССКИЙ ЯЗЫК&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/sotochkamyu&quot;&gt;Соточка последний мяу&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/russayt&quot;&gt;Русский сентябрь&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/sotochkaporusskomu&quot;&gt;Соточка по русскому. Слив&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/rus99sliv&quot;&gt;Летучка 99 баллов русский язык&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/rusege91&quot;&gt;Слив умскул январь&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/rus100ka&quot;&gt;Слив русский язык сотка январь&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/mg99top&quot;&gt;МАСТЕР ГРУППА РУССКИЙ ЯЗЫК 99 БАЛЛОВ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/00VO7Vav8ZwxYTQy&quot;&gt;Ещё слив&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/SiKHIoom2I0xMjVi&quot;&gt;Русский Май&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/joinchat/Xs89jvdk8dwyM2Ri&quot;&gt;Русский апрель&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/rusgul91&quot;&gt;Слив Гуляка январь&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/ruskpr&quot;&gt;Сливы по русскому умскул&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://t.me/lomruss&quot;&gt;Сочинение на максималках&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ютуб&quot;&gt;Ютуб&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCv0nE4Rlze0ydKAWOM7x9Kw&quot;&gt;РУССКИЙ ЯЗЫК ЕГЭ 2021 СОТКА&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCN1kUo80c4Js8Ce2L5qmkPQ&quot;&gt;Русский язык ЕГЭ Умскул&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCMmdUImvrEree15StDiPDUw&quot;&gt;Irish U&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC2g2nSqgOSDDUcwTKYqUmUA&quot;&gt;Bubo Unicus: ЕГЭ РУССКИЙ ЯЗЫК&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCXzJhu8qo7n2h7xG8k12J3g&quot;&gt;Соточка по русскому&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC9PP3JxkeziZiWtPWKsk93A&quot;&gt;Anastasia Pesik&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=EyPWG1f5J78&amp;amp;list=PLICMqW3-oG4hAL5AnprbZmR_KKulUo_R8&quot;&gt;Все задания тестовой части&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=u4lQpc-Lmm0&amp;amp;list=PL3h_ugF4cInU3LHtqNOpVlr68ISc58mUH&quot;&gt;Тестовая часть русский&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=TknR0GvAIbQ&amp;amp;list=PLsFA6mM3DNubqum4Xa9qqdYfSHacvo-2T&quot;&gt;ЕГЭ по русскому языку 80 баллов&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=78va45JQAM0&amp;amp;list=PLHL4stKQKGdc2H0rwOQLC0CmU5AuxvkmH&quot;&gt;Русский язык ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=71Hz_KCmgis&amp;amp;list=PLfzOAklg0mYqAZoo2T9UrS8axM5ah-o2P&quot;&gt;Уроки для подготовки к ЦТ и ЕГЭ по русскому языку&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=c0Gbxry43WY&amp;amp;list=PL9UbnWSfNjk4GurvvWj40ElD0kl_Az8bP&quot;&gt;Alted русский язык&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=aXApvBNA-9U&amp;amp;list=PLElyr1TtvU2Afms_U74H6JC7OrIWd_uZM&quot;&gt;sattarovfamily русский язык&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=A7XGGDJjB6o&amp;amp;list=PL3h_ugF4cInXJTz6-_xTC9jy363Al9Glg&quot;&gt;Сочинение Школково&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=P0lvRypSPAs&amp;amp;list=PL2lPag0g9xH_OQGoFNe39grJXybdgXdcf&quot;&gt;Учим учиться русский язык&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=RFL4mHAYWZk&amp;amp;list=PLx4TjjY1YjzAtmEYpQbNVJU3FKFoTRSNV&quot;&gt;Pi-fi русский язык&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=TgB5f5TzvSo&amp;amp;list=PLlU8TFTKWw84ran_6Ucqm56Ncbk-54gM6&quot;&gt;Годограф русский язык&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=XnzAvvXikso&amp;amp;list=PLfHoOlh99TmJsKW_PRzFmoKqDSHR2BrNN&quot;&gt;Ещё плейлист Школково&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tLKBapwWyyo&amp;amp;list=PLYnPayN5G7MADqngpnHSL-7g3Md2dp5VJ&quot;&gt;Bubo Unicus русский язык&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=43THF24Kvkc&amp;amp;list=PLCUIMF0QWtNhogsuX0TGzf333xp-u7n0F&quot;&gt;Lomonosov shcool русский язык&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Z9e0z02wlB4&amp;amp;list=PLrpL9n1oq44HEJrPfZu9U8A99_fTMmjCW&quot;&gt;Репетиторская империя плейлист&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=9wg_6LydukM&amp;amp;list=PLiRFZB8jnKqWrzyWPVntXzwvuQpijtP1t&amp;amp;index=1&quot;&gt;Академия ЕГЭ N1 плейлист&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=vbFIT4AnSX0&amp;amp;list=PLNG6BIg2XJxAu3v8rIsJUDz39Zo76Wv1X&quot;&gt;Яндекс просвещение плейлист&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=_dlospEuQbY&amp;amp;list=PL3h_ugF4cInXDDzoPYYT-dQnUh5cg11ir&quot;&gt;Итоговое сочинение школково&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=srTabOQhbrc&amp;amp;list=PLgbNuJC3cOmy3z3G4MbBjWHqs5Dy-U78F&quot;&gt;Новая школа плейлист&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=XwTJ_24Mk8Q&amp;amp;list=PLC6tee4YS8s1e25unXrZiB6GDi_NrOMJZ&quot;&gt;Фабрика ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=rUs7FU-nJ7E&amp;amp;list=PLFLihuUc2w1D_kmusd3wvR_nvPMw3ITiE&quot;&gt;Ещё плейлист&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tGALJPWWYsU&amp;amp;list=PLNG6BIg2XJxBwRub5oERsCOwUfUDVAin4&quot;&gt;Яндекс просвешение сочинение&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ZJhYc6zqumQ&amp;amp;list=PLXYUoAtHePyaf1CBLTdHneW525rZXHBix&quot;&gt;ЕГЭLabd плейлист&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;udemy&quot;&gt;Udemy&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.udemy.com/course/podgotovka-k-ege-po-russkomu/&quot;&gt;Подготовка к ЕГЭ по русскому языку&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;облако&quot;&gt;Облако&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://disk.yandex.ru/d/jWlEgPt0Q7pbuA/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8F%D0%B7%D1%8B%D0%BA%20%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA%D0%B8&quot;&gt;Очень много книг и учебников&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://yadi.sk/d/P1Dv8v2V3WurE3&quot;&gt;Сочинение 2018&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/DWhgXaLC#gxoZCsPOOK-0dI6kwiK_ug&quot;&gt;Подготовка к олимпиадам&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mega.nz/folder/S3gTXKQL#18qfHt1NtecA3mLxfjK0Sg&quot;&gt;Рус яз, Тест, 2019&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://disk.yandex.ru/d/jWlEgPt0Q7pbuA/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8F%D0%B7%D1%8B%D0%BA&quot;&gt;Много материалов&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/tanookki/FizMatInf/tree/master/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8F%D0%B7%D1%8B%D0%BA&quot;&gt;Ещё материалы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://yadi.sk/d/Lk1b5XxJodZrBg&quot;&gt;Соточка по русскому тест&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://cloud.mail.ru/public/151p/52H17pYrV/&quot;&gt;ЕГЭ русский 1 часть&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docviewer.yandex.ru/view/0/?*=p%2FkEPcJ75ZqiPVzF6A7M309F11N7InVybCI6InlhLWRpc2stcHVibGljOi8vMHNiZ2hQakJFaVZDUll2VlVaUmZLSnhMZFdDc0sxTVFZUWY1YlBmY0ZCQ3hJTEdFbUpJR1F1bjhpZjlIVG9wMHEvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PTov0YXQvtGA0L7RiNC40LUg0LrQvdC40LPQuCDQvtGCINC40LfQtNCw0YLQtdC70YzRgdGC0LLQsCDQsNCy0LDQvdGC0LAsINC%2F0L7Rh9GC0Lgg0LLRgdC1INC%2F0YDQtdC00LzQtdGC0YssINC40LTQtdCw0LvRjNC90Ysg0LTQu9GPINC%2F0L7QstGC0L7RgNC10L3QuNGPL1BvbG55X2t1cnNfcG9kZ290b3ZraV9rX0VHRV9SdXNza2l5X3lhenlrX1phZ2lkdWxsaW5hLnBkZiIsInRpdGxlIjoiUG9sbnlfa3Vyc19wb2Rnb3RvdmtpX2tfRUdFX1J1c3NraXlfeWF6eWtfWmFnaWR1bGxpbmEucGRmIiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiIwIiwidHMiOjE2Mjc2NjI4NTgwMzUsInl1IjoiNzMzOTE2NTkwMTYyNzY1OTQ1MSJ9&quot;&gt;Русския язык Загидуллина&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;сайты&quot;&gt;Сайты&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bingoschool.ru/ege/russian/tasks/&quot;&gt;bingoschool русский&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://foxford.ru/referrals/7193555&quot;&gt;Фоксфорд + 2000₽&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.textologia.ru/russkiy/?q=394&quot;&gt;Правила русского языка&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://totaldict.ru/education/old/&quot;&gt;Тотальный диктант&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.saharina.ru/metod/ege/theory/&quot;&gt;Сайт Захарьиной Елены Алексеевны&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://therules.ru/&quot;&gt;Ещё правила русского языка&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://russkiy-na-5.ru/&quot;&gt;Русский на 5&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bingoschool.ru/ege/final-essay/themes/&quot;&gt;bingoschool сочинение&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.udarenie.info/&quot;&gt;Сайт с ударениями&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://j8q.github.io/paronimy/&quot;&gt;Сайт по 5 заданию (Паронимы)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://rus-ege.sdamgia.ru/&quot;&gt;Решу ЕГЭ русский язык&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://4ege.ru/russkiy/&quot;&gt;4ege Русский язык&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://synergy.ru/edu/ege/ege_2021/russkij_yazyik/&quot;&gt;Синергия&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://yandex.ru/tutor/subject/?subject_id=3&quot;&gt;Яндекс Репетитор&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://neznaika.info/ege/russian/&quot;&gt;Незнайка&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://rustutors.ru/egeteoriya/1131-teoriya-k-ege-2019-po-russkomu-yazyku.html&quot;&gt;Рустьюторс&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ege-study.ru/ru/ege/materialy/russkij-yazyk/&quot;&gt;Материалы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://frenglish.ru/ege-russ.html&quot;&gt;Книги 2011&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ctege.info/knigi-po-russkomu-yazyiku-dlya-podgotovki-k-ege/&quot;&gt;Новые книги&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://skachaj24.ru/ege-po-russkomu-yazyku/&quot;&gt;Куча книг и пособий&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://5-ege.ru/ege/&quot;&gt;5-ege&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://spadilo.ru/ege-po-russkomu-yazyku/&quot;&gt;Спадило&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.examen.ru/add/tests/testyi-po-russkomu-yazyiku-1170/&quot;&gt;Examen.ru&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://fipi.ru/ege/demoversii-specifikacii-kodifikatory&quot;&gt;Демоверсии, спецификации, кодификаторы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://fipi.ru/ege/perspektivnyye-modeli&quot;&gt;Перспективные модели ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://fipi.ru/ege/analiticheskie-i-metodicheskie-materialy&quot;&gt;Аналитические и методические материалы&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://fipi.ru/ege/otkrytyy-bank-zadaniy-ege&quot;&gt;Открытый банк заданий ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://fipi.ru/ege/otkrytyy-bank-zadaniy-ege/otkrytyye-varianty-kim-ege&quot;&gt;Открытые варианты КИМ ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kursagent.ru/webs/&quot;&gt;вебинары&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;android&quot;&gt;Android&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=air.com.prismalogic.spellingGame&amp;amp;hl=ru&amp;amp;gl=ru&quot;&gt;Орфография&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=russkyj.jazyk.ege&quot;&gt;Русский язык ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.shahbazly_dev.orthoepy&quot;&gt;Орфоэпия - ударения ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.vk.egerussianfree&quot;&gt;ЕГЭ Русский&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ismatti.paronim&quot;&gt;Паронимы для ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.tcaiy.ruskiy&quot;&gt;Русский ЕГЭ 2021 (ударения, теория, словари)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.shahbazly_dev.morphology&quot;&gt;Морфология - русский язык ЕГЭ 2020&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.education.frogtravel.ege4task&quot;&gt;ЕГЭ 2021 Ударения - Тренажёр, словарь и шпаргалка&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=x.le.ple.mple.ample.xample.example.orthoepy&quot;&gt;ЕГЭ 2021 Орфоэпия: ударения, словарь, произношение&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ismatti.accent&quot;&gt;Ударения для ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.tamplleer.testrussian&quot;&gt;Ударения - ЕГЭ по русскому языку&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.daniilamark.ruquiz&quot;&gt;ударЕния ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.fixxxer.russian&quot;&gt;Русский язык: Орфография&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.studyapps.rus&quot;&gt;Русский язык - школьный курс. Подготовка ЕГЭ и ОГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.vectordevelopment.rusquiz&quot;&gt;Тесты по Русскому Языку для подготовки к ЕГЭ 2021&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.belka.velka.ege.egepunc&quot;&gt;ЕГЭ 2019 Пунктуация - Тренажер&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=ru.allyteam.gramoteifree&quot;&gt;Грамотей! - викторина орфографии для взрослых&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=io.nlevels.orfusapp&quot;&gt;Орфография&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ellize.rurules&quot;&gt;Тесты по русскому&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.gramotnee.orpho&quot;&gt;Орфография русского языка&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=ru.foxford.foxfordtextbook&quot;&gt;Фоксфорд учебник&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ios&quot;&gt;iOS&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/id725539853&quot;&gt;Глазарий языка&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/%D0%B5%D0%B3%D1%8D-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA-2022/id1194830178&quot;&gt;ЕГЭ Русский Язык 2022&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D0%B8%D0%BA-%D0%BF%D0%BE-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83-6-%D0%B2-1/id689597450&quot;&gt;Отличник по русскому 6 в 1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0-pro/id1169946909&quot;&gt;Правила русского языка pro&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/%D0%B5%D0%B3%D1%8D-2019-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA/id1209275435&quot;&gt;ЕГЭ 2019 Русский язык&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/%D0%B3%D1%80%D0%B0%D0%BC%D0%BE%D1%82%D0%B5%D0%B9-%D1%82%D0%B5%D1%81%D1%82-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0/id662552813&quot;&gt;Грамотей! Тест Русского Языка&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/%D0%B4%D0%B8%D0%BA%D1%82%D0%B0%D0%BD%D1%82%D1%8B-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA/id974125949&quot;&gt;Диктанты. Русский язык&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/%D0%B5%D0%B3%D1%8D-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA/id1362128938&quot;&gt;ЕГЭ - Русский язык&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/%D1%83%D0%B4%D0%B0%D1%80%D0%B5%D0%BD%D0%B8%D1%8F/id959350438&quot;&gt;Ударения&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/%D0%BE%D1%80%D1%84%D0%BE%D1%8D%D0%BF%D0%B8%D1%8F/id1562654758&quot;&gt;Орфоэпия&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/%D1%83%D0%B4%D0%B0%D1%80%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BA-%D0%B5%D0%B3%D1%8D/id1505207299&quot;&gt;Ударение – подготовка к ЕГЭ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0-%D1%84%D0%BE%D0%BA%D1%81%D0%B8-%D0%B3%D1%80%D0%B0%D0%BC%D0%BE%D1%82%D0%B5%D0%B9-%D1%82%D0%B5%D1%81%D1%82%D1%8B/id1402490326&quot;&gt;Слова Фокси — грамотей тесты&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/%D0%B3%D1%80%D0%B0%D0%BC%D0%BE%D1%82%D0%B5%D0%B9-%D0%B2%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B0-%D0%BE%D1%80%D1%84%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8/id1308540467&quot;&gt;Грамотей: викторина орфографии&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/%D1%81%D0%BB%D0%BE%D0%B2%D0%BE-%D0%B4%D0%BD%D1%8F-%D1%82%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/id594187735&quot;&gt;Слово дня — толковый словарь&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/%D0%BE%D1%80%D1%84%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F-%D0%B4%D0%B8%D0%BA%D1%82%D0%B0%D0%BD%D1%82/id1207616288&quot;&gt;Орфография: Диктант&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/ru/app/%D0%BE%D1%80%D1%84%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F-%D0%B8%D0%B3%D1%80%D0%B0-%D1%82%D0%B5%D1%81%D1%82-%D0%BD%D0%B0-%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0/id651400663&quot;&gt;Орфография, игра-тест на знание русского языка&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/us/app/foksford-ucebnik/id930911649?l=ru&amp;amp;ls=1&quot;&gt;Фоксфорд учебник&lt;/a&gt;&lt;/p&gt;</content><author><name>Abhinav Saxena</name></author><summary type="html">Курсы Stepik</summary></entry><entry><title type="html">Thursday</title><link href="http://localhost:4000/thursday.html" rel="alternate" type="text/html" title="Thursday" /><published>2021-11-14T00:00:00+03:00</published><updated>2021-11-14T00:00:00+03:00</updated><id>http://localhost:4000/thursday</id><content type="html" xml:base="http://localhost:4000/thursday.html">&lt;h2 id=&quot;расписание&quot;&gt;Расписание&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;1. Э.К. Решение задач&lt;/strong&gt;&lt;/p&gt;
 
@@ -69,195 +1494,4 @@
 
 &lt;p&gt;&lt;strong&gt;6. Литратура&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;7. Биология&lt;/strong&gt;&lt;/p&gt;</content><author><name>Abhinav Saxena</name></author><summary type="html">Расписание</summary></entry><entry><title type="html">Soopr</title><link href="http://localhost:4000/soopr.html" rel="alternate" type="text/html" title="Soopr" /><published>2021-03-04T00:00:00+03:00</published><updated>2021-03-04T00:00:00+03:00</updated><id>http://localhost:4000/soopr</id><content type="html" xml:base="http://localhost:4000/soopr.html">&lt;p&gt;&lt;a href=&quot;https://www.soopr.co&quot;&gt;Soopr&lt;/a&gt; is the easiest way for you to add share &amp;amp; reaction buttons to your blog and website, integrate an URL shortener and simple to understand analytics service. Soopr lets you manage all of these using a powerful dashboard.&lt;/p&gt;
-
-&lt;p&gt;Moonwalk uses Soopr for share and like buttons and it is already integrated. By default, Moonwalk shows &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;circular&lt;/code&gt; Twitter, Facebook and Copy buttons in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;base&lt;/code&gt; size. To add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;like&lt;/code&gt; button, please signup for free on &lt;a href=&quot;https://www.soopr.co&quot;&gt;Soopr&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Once you have signed up on Soopr, get a publish token for your website and edit &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file and add it under &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;soopr&lt;/code&gt; key and restart the server.&lt;/p&gt;
-&lt;div class=&quot;language-yml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;soopr&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;publish-token&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;ADD_YOUR_PUBLISH_TOKEN_HERE&quot;&lt;/span&gt; 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://www.soopr.co&quot;&gt;Soopr Website&lt;/a&gt; for more info on how to get the most out of Soopr.&lt;/p&gt;</content><author><name>Abhinav Saxena</name></author><summary type="html">Soopr is the easiest way for you to add share &amp;amp; reaction buttons to your blog and website, integrate an URL shortener and simple to understand analytics service. Soopr lets you manage all of these using a powerful dashboard.</summary></entry><entry><title type="html">Code</title><link href="http://localhost:4000/code.html" rel="alternate" type="text/html" title="Code" /><published>2021-01-08T00:00:00+03:00</published><updated>2021-01-08T00:00:00+03:00</updated><id>http://localhost:4000/code</id><content type="html" xml:base="http://localhost:4000/code.html">&lt;h1 id=&quot;language-test&quot;&gt;Language Test&lt;/h1&gt;
-
-&lt;h2 id=&quot;python&quot;&gt;Python&lt;/h2&gt;
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;microrequests&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;mr&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;microrequests&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;init&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;# mr is requests&apos; session object and you can use it in similar manner
-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;res&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;mr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;get&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://httpbin.org/get&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;ruby&quot;&gt;Ruby&lt;/h2&gt;
-&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;require&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;gmail&apos;&lt;/span&gt;
-&lt;span class=&quot;nb&quot;&gt;require&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;time&apos;&lt;/span&gt;
-&lt;span class=&quot;nb&quot;&gt;require&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;yaml&apos;&lt;/span&gt;
-&lt;span class=&quot;nb&quot;&gt;require&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;erb&apos;&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;ARGV&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;length&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Syntax: &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;kp&quot;&gt;__FILE__&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt; gmail-username gmail-password&quot;&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;exit&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;config&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;YAML&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;load_file&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;File&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;dirname&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kp&quot;&gt;__FILE__&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;/config.yaml&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;body&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;ERB&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;new&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;body&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;gmail&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Gmail&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;connect&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;ARGV&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;ARGV&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;# variable &apos;name&apos; is important given it is used in body as well&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;email_id&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;to&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;sending to &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;email_id&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-  &lt;span class=&quot;n&quot;&gt;email&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gmail&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;compose&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;email_id&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;from&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;subject&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;subject&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;binding&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-  &lt;span class=&quot;n&quot;&gt;email&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;deliver!&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;gmail&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;logout&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;javascript&quot;&gt;Javascript&lt;/h2&gt;
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;path&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;merge&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;webpack-merge&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;common&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;./webpack.common.js&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-&lt;span class=&quot;nx&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;exports&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;merge&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;common&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;mode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;development&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;devtool&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;inline-source-map&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;devServer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;writeToDisk&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;contentBase&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;__dirname&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;dist&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;publicPath&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;__dirname&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;dist&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;compress&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;port&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;8000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;elixir&quot;&gt;Elixir&lt;/h2&gt;
-&lt;div class=&quot;language-elixir highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;defmodule&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;MyAppWeb&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;BearerAuth&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt;
-
-  &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Plug&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Conn&lt;/span&gt;
-  &lt;span class=&quot;n&quot;&gt;alias&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;MyApp&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Account&lt;/span&gt;
-
-  &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;init&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;options&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;options&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-
-  &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;call&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;conn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;_options&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;case&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;get_bearer_auth_token&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;conn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt;
-      &lt;span class=&quot;no&quot;&gt;nil&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;conn&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;unauthorized&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-      &lt;span class=&quot;ss&quot;&gt;:error&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;conn&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;unauthorized&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-      &lt;span class=&quot;n&quot;&gt;auth_token&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;account&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;
-          &lt;span class=&quot;no&quot;&gt;Account&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;get_from_token&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;auth_token&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;account&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt;
-          &lt;span class=&quot;n&quot;&gt;assign&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;conn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:current_account&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;account&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;
-          &lt;span class=&quot;n&quot;&gt;conn&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;unauthorized&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-
-  &lt;span class=&quot;k&quot;&gt;defp&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;get_bearer_auth_token&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;conn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;with&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Bearer &quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;auth_token&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;get_req_header&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;conn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;authorization&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt;
-      &lt;span class=&quot;n&quot;&gt;auth_token&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;
-      &lt;span class=&quot;n&quot;&gt;_&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:error&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-
-  &lt;span class=&quot;k&quot;&gt;defp&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;unauthorized&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;conn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;conn&lt;/span&gt;
-    &lt;span class=&quot;o&quot;&gt;|&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;resp&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;401&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Unauthorized&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-    &lt;span class=&quot;o&quot;&gt;|&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;halt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;css&quot;&gt;CSS&lt;/h2&gt;
-&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nc&quot;&gt;.highlight&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;pre&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;blockquote&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;border-radius&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0.5em&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;blockquote&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;var&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;--bg-secondary&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;border&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1px&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;var&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;--border&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;solid&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Abhinav Saxena</name></author><summary type="html">Language Test</summary></entry><entry><title type="html">Post Example With Headings And Toc</title><link href="http://localhost:4000/post-example-with-headings-and-toc.html" rel="alternate" type="text/html" title="Post Example With Headings And Toc" /><published>2020-07-09T00:00:00+03:00</published><updated>2020-07-09T00:00:00+03:00</updated><id>http://localhost:4000/post-example-with-headings-and-toc</id><content type="html" xml:base="http://localhost:4000/post-example-with-headings-and-toc.html">&lt;p&gt;Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo.&lt;/p&gt;
-
-&lt;h2 id=&quot;table-of-contents&quot;&gt;Table of contents&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#table-of-contents&quot;&gt;Table of contents&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-start&quot;&gt;The start&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-middle&quot;&gt;The middle&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-end&quot;&gt;The end&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo. Vestibulum porta tincidunt tellus, vitae ornare tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed nunc neque, tempor in iaculis non, faucibus et metus. Etiam id nisl ut lorem gravida euismod.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-start&quot;&gt;&lt;a href=&quot;#the-start&quot;&gt;The start&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Fusce non velit cursus ligula mattis convallis vel at metus. Sed pharetra tellus massa, non elementum eros vulputate non. Suspendisse potenti. Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc. Sed massa quam, auctor in eros quis, porttitor tincidunt orci. Nulla convallis id sapien ornare viverra. Cras nec est lacinia ligula porta tincidunt. Nam a est eget ligula pellentesque posuere. Maecenas quis enim ac risus accumsan scelerisque. Aliquam vitae libero sapien. Etiam convallis, metus nec suscipit condimentum, quam massa congue velit, sit amet sollicitudin nisi tortor a lectus. Cras a arcu enim. Suspendisse hendrerit euismod est ac gravida. Donec vitae elit tristique, suscipit eros at, aliquam augue. In ac faucibus dui. Sed tempor lacus tristique elit sagittis, vitae tempor massa convallis.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-middle&quot;&gt;&lt;a href=&quot;#the-middle&quot;&gt;The middle&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Proin quis velit et eros auctor laoreet. Aenean eget nibh odio. Suspendisse mollis enim pretium, fermentum urna vitae, egestas purus. Donec convallis tincidunt purus, scelerisque fermentum eros sagittis vel. Aliquam ac aliquet risus, tempus iaculis est. Fusce molestie mauris non interdum hendrerit. Curabitur ullamcorper, eros vitae interdum volutpat, lacus magna lacinia turpis, at accumsan dui tortor vel lectus. Aenean risus massa, semper non lectus rutrum, facilisis imperdiet mi. Praesent sed quam quis purus auctor ornare et sed augue. Vestibulum non quam quis ligula luctus placerat sed sit amet erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce auctor, sem eu volutpat dignissim, turpis nibh malesuada arcu, in consequat elit mauris quis sem. Nam tristique sit amet enim vel accumsan. Sed id nibh commodo, dictum sem id, semper quam.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-end&quot;&gt;The end&lt;/h2&gt;
-
-&lt;p&gt;Donec ex lectus, tempus non lacinia quis, pretium non ipsum. Praesent est nunc, rutrum vel tellus eu, tristique laoreet purus. In rutrum orci sit amet ex ornare, sit amet finibus lacus laoreet. Etiam ac facilisis purus, eget porttitor odio. Suspendisse tempus dolor nec risus sodales posuere. Proin dui dui, mollis a consectetur molestie, lobortis vitae tellus. Vivamus at purus sed urna sollicitudin mattis. Mauris lacinia libero in lobortis pulvinar. Nullam sit amet condimentum justo. Donec orci justo, pharetra ut dolor non, interdum finibus orci. Proin vitae ante a dui sodales commodo ac id elit. Nunc vel accumsan nunc, sit amet congue nunc. Aliquam in lacinia velit. Integer lobortis luctus eros, in fermentum metus aliquet a. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.&lt;/p&gt;</content><author><name>Abhinav Saxena</name></author><summary type="html">Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo.</summary></entry><entry><title type="html">Language Tests</title><link href="http://localhost:4000/language-tests.html" rel="alternate" type="text/html" title="Language Tests" /><published>2020-07-08T00:00:00+03:00</published><updated>2020-07-08T00:00:00+03:00</updated><id>http://localhost:4000/language-tests</id><content type="html" xml:base="http://localhost:4000/language-tests.html">&lt;p&gt;Note: Text is from &lt;a href=&quot;https://github.com/huangyz0918/moving&quot;&gt;moving&lt;/a&gt;, which is another good Jekyll theme.&lt;/p&gt;
-
-&lt;h3 id=&quot;1-日本語テスト&quot;&gt;1. 日本語テスト&lt;/h3&gt;
-
-&lt;p&gt;This is a Japanese test post to show you how japanese is displayed.&lt;/p&gt;
-
-&lt;p&gt;私は昨日ついにその助力家というのの上よりするたなけれ。
-最も今をお話団はちょうどこの前後なかろでくらいに困りがいるたをは帰着考えたなかって、そうにもするでうたらない。
-がたを知っないはずも同時に九月をいよいよたありた。&lt;/p&gt;
-
-&lt;p&gt;もっと槙さんにぼんやり金少し説明にえた自分大した人私か影響にというお関係たうませないが、この次第も私か兄具合に使うて、槙さんののに当人のあなたにさぞご意味と行くて私個人が小尊敬を聴いように同時に同反抗に集っだうて、いよいよまず相当へあっうからいだ事をしでなけれ。&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;それでそれでもご時日をしはずはたったいやと突き抜けるますて、その元がは行ったてという獄を尽すていけですた。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;この中道具の日その学校はあなたごろがすまなりかとネルソンさんの考えるですん、辺の事実ないというご盲従ありたですと、爺さんのためが薬缶が結果までの箸の当時してならて、多少の十月にためからそういう上からとにかくしましないと触れべきものたで、ないうですと多少お人達したのでたた。&lt;/p&gt;
-
-&lt;p&gt;From &lt;a href=&quot;http://lipsum.sugutsukaeru.jp/index.cgi&quot;&gt;すぐ使えるダミーテキスト - 日本語 Lorem ipsum.&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;2-繁体中文测试&quot;&gt;2. 繁体中文测试&lt;/h3&gt;
-
-&lt;p&gt;This is a chinese test post to show you how chinese is displayed.&lt;/p&gt;
-
-&lt;p&gt;善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。&lt;/p&gt;
-
-&lt;p&gt;以也座論頭室業放。要車時地變此親不老高小是統習直麼調未，行年香一？&lt;/p&gt;
-
-&lt;p&gt;就竟在，是我童示讓利分和異種百路關母信過明驗有個歷洋中前合著區亮風值新底車有正結，進快保的行戰從：弟除文辦條國備當來際年每小腳識世可的的外的廣下歌洲保輪市果底天影；全氣具些回童但倒影發狀在示，數上學大法很，如要我……月品大供這起服滿老？應學傳者國：山式排只不之然清同關；細車是！停屋常間又，資畫領生，相們制在？公別的人寫教資夠。資再我我！只臉夫藝量不路政吃息緊回力之；兒足灣電空時局我怎初安。意今一子區首者微陸現際安除發連由子由而走學體區園我車當會，經時取頭，嚴了新科同？很夫營動通打，出和導一樂，查旅他。坐是收外子發物北看蘭戰坐車身做可來。道就學務。&lt;/p&gt;
-
-&lt;p&gt;國新故。&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;工步他始能詩的，裝進分星海演意學值例道……於財型目古香亮自和這乎？化經溫詩。只賽嚴大一主價世哥受的沒有中年即病行金拉麼河。主小路了種就小為廣不？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;From &lt;a href=&quot;http://www.richyli.com/tool/loremipsum/&quot;&gt;亂數假文產生器 - Chinese Lorem Ipsum.&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;3-简体中文测试&quot;&gt;3. 简体中文测试&lt;/h3&gt;
-
-&lt;p&gt;效育声去本义然空，各值太法心想，场强实地。 题铁习点儿表管少间千，只何政亲织文意部，千影画派证男须。 手反取长风治增非等直难群，连取及天他己事头级，影数弦适把气快目人。 专议以省通引而千个，格则口段度样水热马，地教少务改磨。 包思外心半院应她算斯，市外会快记路又火学，劳如肃它准众丧边。&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;团算部住县单总边素格军所，合音府教看和广光采率位转，位用品根确针百。 证其标元角工方海接交他，论象切万世认一响义，治然身本风弦带题。 向我次路持加北，她不反心。 说总元军例市决，现始即算证养，规走还壳。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;因林可相儿应满军，热影省条律因资再，整肃赤心将届。 局广写两量备验还，南教事争工民的，备进研上布。 素身电活非直，速这区交示从，百层达。 资量那毛什京身，白这快。 半打容三手开常价或，手严量般象式效，名可重芽门适。 来设什一我么，光界美么或，住身式准。 造酸改表委验众办地百养，商物战众本列听度名院，制压录丽快与千机内。 住需当四议决得命南然照按民置，当住命形金决否矿单外。 气象理离开新集增际，三划方工义很年关，拉许准孝口。 构片出干计由备美打养，持育总指承入无己。&lt;/p&gt;
-
-&lt;p&gt;From &lt;a href=&quot;http://www.cancms.com/content/dummytext&quot;&gt;假文生成器， lorem ipsum Chinese&lt;/a&gt;&lt;/p&gt;</content><author><name>Abhinav Saxena</name></author><summary type="html">Note: Text is from moving, which is another good Jekyll theme.</summary></entry><entry><title type="html">Very Very Very Long Title And Very Very Very Short Content</title><link href="http://localhost:4000/very-very-very-long-title-and-very-very-very-short-content.html" rel="alternate" type="text/html" title="Very Very Very Long Title And Very Very Very Short Content" /><published>2020-07-08T00:00:00+03:00</published><updated>2020-07-08T00:00:00+03:00</updated><id>http://localhost:4000/very-very-very-long-title-and-very-very-very-short-content</id><content type="html" xml:base="http://localhost:4000/very-very-very-long-title-and-very-very-very-short-content.html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus. Nullam vestibulum metus eu purus malesuada, volutpat mattis leo facilisis.&lt;/p&gt;</content><author><name>Abhinav Saxena</name></author><summary type="html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus. Nullam vestibulum metus eu purus malesuada, volutpat mattis leo facilisis.</summary></entry></feed>
+&lt;p&gt;&lt;strong&gt;7. Биология&lt;/strong&gt;&lt;/p&gt;</content><author><name>Abhinav Saxena</name></author><summary type="html">Расписание</summary></entry></feed>

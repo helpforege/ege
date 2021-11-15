@@ -10,30 +10,45 @@ navbar_entries:
 project_entries:
   - title: Понедельник
     url: monday
-    desc: 15 нояб.
+
 
   - title: Вторник
     url: tuesday
-    desc: 16 нояб.
 
   - title: Среда
     url: wednesday
-    desc: 17 нояб.
 
   - title: Четверг
     url: thursday
-    desc: 18 нояб.
-    highlight: ВАЖНО
+    highlight: 
 
   - title: Пятница
     url: friday
-    desc: 19 нояб.
-    highlight: КОНТРОЛЬНАЯ
+    highlight: 
 
-  - title: Другое
-    url: overview-post
+  - title: События
+    url: others
     desc: 
 
+  - title: Математика
+    url: math
+    desc: материалы для подготовки
+    highlight: ЕГЭ
+
+  - title: Русский язык
+    url: rus
+    desc: материалы для подготовки
+    highlight: ЕГЭ
+
+  - title: Физика
+    url: phs
+    desc: материалы для подготовки
+    highlight: ЕГЭ
+
+  - title: Информатика 
+    url: inf
+    desc: материалы для подготовки
+    highlight: ЕГЭ
 
 footer_entries:
   - title: abhinav's homepage
@@ -56,7 +71,7 @@ misc_entries:
     url: false
 
   - title: and you can add data in _data/home.yml
-    url: false
+    url: true
 
   - title: Blog posts
     post_list: true
